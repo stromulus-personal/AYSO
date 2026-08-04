@@ -15,7 +15,7 @@ export preserved in `reference/`). Update this file as answers come in.
 | Sun, Sep 20 | Picture Day | |
 | Week of Sep 28 | Coach Meeting | |
 | Sat, Oct 3 | Silent Saturday | |
-| Week of Nov 9 | Playoffs (weeknight games, for some) | Regular season is 9 games; playoffs make 10 total |
+| Sat, Nov 14 | Playoffs begin (weeknight games, for some) | Regular season is 9 games; playoffs make 10 total |
 | All October | Pink Socktober | Themed month — likely pink socks / breast cancer awareness |
 
 > Source: photo of a region slide (referee/play admin intro), undated — day-of-week
