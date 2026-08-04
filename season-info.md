@@ -61,8 +61,8 @@ export preserved in `reference/`). Update this file as answers come in.
 
 | Question | Answer |
 |----------|--------|
-| Assistant coach — training done by Aug 22? | |
+| Assistant coach — training done by Aug 22? | No AC listed on the roster yet — need to recruit/confirm one, or running solo? |
 | Challenger session dates & locations | |
 | First touch clinic dates & locations | |
 | Sportsmanship coin — who awards (coach / ref / team)? | |
-| Roster | Isaac + TBD |
+| Roster | Confirmed, 9 players — see `roster.md` |

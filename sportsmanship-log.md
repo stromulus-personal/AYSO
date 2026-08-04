@@ -13,14 +13,21 @@ it's "his turn."
 
 ## Coverage — has each kid gotten a coin yet?
 
-Keep this in sync with the roster as names come in. Isaac is the coach's
-kid — watch for overcorrection (skipping him because he's yours) as much as
+Roster confirmed (9 players, see `roster.md`). Isaac is the coach's kid —
+watch for overcorrection (skipping him because he's yours) as much as
 undercorrection (favoritism).
 
 | Player | Coin awarded? | Date | Watch for |
 |--------|---------------|------|-----------|
-| Isaac | ☐ | | Don't let coach's-kid overcorrection skip him |
-| *(TBD)* | ☐ | | |
+| Isaac Clark-Strom | ☐ | | Don't let coach's-kid overcorrection skip him |
+| Beckett Davis | ☐ | | |
+| Cortez Esperias | ☐ | | |
+| Thomas Holman | ☐ | | |
+| Daniel Kong | ☐ | | |
+| Zayden Mercado | ☐ | | |
+| Grayson Nosic | ☐ | | |
+| Michael Nosic | ☐ | | |
+| Leon Pecho | ☐ | | |
 
 ## Observation bank
 

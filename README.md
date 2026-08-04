@@ -9,6 +9,8 @@ Coaching notes and season materials for the 10U boys team.
   "10U Boys - Season Info" Drive sheet (Drive files can't be edited from here).
 - `sportsmanship-log.md` — coin coverage tracker + running observation bank.
   Editable working copy of the "Sportsmanship Tracker - 10U Boys" Drive sheet.
+- `roster.md` — team roster: players, account holders, contact info,
+  team personnel. Contains contact info for other families — keep private.
 - `notes/` — meeting notes and running records, one file per date
   (`YYYY-MM-DD-topic.md`). Dated snapshots — they don't get updated later.
 - `reference/` — original files (Drive exports, handouts) kept as-is.
