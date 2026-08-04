@@ -47,22 +47,39 @@ export preserved in `reference/`). Update this file as answers come in.
 | Punting / drop kicks | Not allowed |
 | Headers | Not allowed |
 
+## Team communication
+
+- **TeamReach app**, team code `teamwork110` — all practice/game times and
+  team comms go through this, not email, going forward.
+
 ## Volunteers needed
 
 | Role | Status |
 |------|--------|
-| Assistant Coach | Needed — must complete training by Aug 22 deadline once found |
-| 4th Referee | Nice to have — currently 3 (Samuel, Christian, Leo) |
+| Assistant Coach | Open — asked for in the welcome email; must complete training by Aug 22 once found |
+| Team Manager | Open — attendance, snacks, extra eyes (new ask, from welcome email) |
+| Referee — 1 more adult slot | Open (welcome email calls it "Referee 2") |
+| Referee — 1 more youth slot (11+) | Open (welcome email calls it "Referee 4") |
+
+> The welcome email's referee numbering doesn't quite match `roster.md` (there:
+> Sam = 1st, Christian = 2nd, Leo = 3rd; the email thanks "one of you" for
+> Referee 1 and lists Referee 2 as open). Possibly the email doesn't count Sam's
+> own ref registration since coaches typically can't officiate their own team's
+> games. Worth confirming so `roster.md` and this table actually agree.
 
 ## Notes for parent email
 
+The welcome email (`notes/2026-08-04-team-welcome-email.md`, sent via
+TeamReach) covered goals/fun-first and volunteer recruiting. These are
+still open for a follow-up, ideally before game one per the meeting notes:
+
 | Item | Status |
 |------|--------|
-| 10U technical areas closed & controlled — NO EXCEPTIONS | To include |
-| Challenger program sessions (region-provided, free) | To include — get dates |
-| First touch clinic for new players (free) | To include — get dates |
-| Carpool coordination | To include |
-| Fun-first philosophy | To include |
+| 10U technical areas closed & controlled — NO EXCEPTIONS | Still to send |
+| Challenger program sessions (region-provided, free) | Still to send — get dates |
+| First touch clinic for new players (free) | Still to send — get dates |
+| Carpool coordination | Still to send |
+| Fun-first philosophy | **Sent** — welcome email goals list |
 
 ## Open questions
 
