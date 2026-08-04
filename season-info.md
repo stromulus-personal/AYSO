@@ -61,11 +61,11 @@ export preserved in `reference/`). Update this file as answers come in.
 | Referee — 1 more adult slot | Open (welcome email calls it "Referee 2") |
 | Referee — 1 more youth slot (11+) | Open (welcome email calls it "Referee 4") |
 
-> The welcome email's referee numbering doesn't quite match `roster.md` (there:
-> Sam = 1st, Christian = 2nd, Leo = 3rd; the email thanks "one of you" for
-> Referee 1 and lists Referee 2 as open). Possibly the email doesn't count Sam's
-> own ref registration since coaches typically can't officiate their own team's
-> games. Worth confirming so `roster.md` and this table actually agree.
+> Numbering note: the welcome email's referee numbers (Referee 1 = Christian,
+> 2 = open, 3 = Leo, 4 = open) don't match `roster.md`'s internal order (Sam =
+> 1st, Christian = 2nd, Leo = 3rd) — intentional. Sam left himself out of the
+> parent-facing count so families don't assume he'll just auto-ref. Both are
+> correct for their own purpose; no need to reconcile.
 
 ## Notes for parent email
 
