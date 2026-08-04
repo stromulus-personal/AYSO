@@ -22,10 +22,10 @@ Contains contact info for player families — keep this repo private.
 
 ## Team personnel
 
-| Role | Name | Email | Phone |
-|------|------|-------|-------|
-| Head Coach | Samuel Strom | stromulus@gmail.com | 310-701-9442 |
-| Referee | Christian Esperias | christianesperias@gmail.com | 323-316-5580 |
-| Referee | Leo Clark-Strom | ltcs.liongamer@gmail.com | 909-261-1277 |
+| Role | Name | Email | Phone | Notes |
+|------|------|-------|-------|-------|
+| Head Coach + 1st Referee | Samuel Strom | stromulus@gmail.com | 310-701-9442 | That's me |
+| 2nd Referee | Christian Esperias | christianesperias@gmail.com | 323-316-5580 | Cortez's dad |
+| 3rd Referee | Leo Clark-Strom | ltcs.liongamer@gmail.com | 909-261-1277 | My older son, youth ref |
 
 No Assistant Coach listed yet.
