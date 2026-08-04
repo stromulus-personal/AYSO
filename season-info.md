@@ -16,11 +16,10 @@ export preserved in `reference/`). Update this file as answers come in.
 | Week of Sep 28 | Coach Meeting | |
 | Sat, Oct 3 | Silent Saturday | |
 | Week of Nov 9 | Playoffs (weeknight games, for some) | Regular season is 9 games; playoffs make 10 total |
+| All October | Pink Socktober | Themed month — likely pink socks / breast cancer awareness |
 
 > Source: photo of a region slide (referee/play admin intro), undated — day-of-week
-> for Sep 12 and exact scope of "some" for playoffs not confirmed. One line at the
-> bottom of the slide was cut off in the photo ("Pick Sept[ember]... All October")
-> — re-check if that turns out to matter.
+> for Sep 12 and exact scope of "some" for playoffs not confirmed.
 
 ## Season format
 
@@ -33,9 +32,9 @@ export preserved in `reference/`). Update this file as answers come in.
 - New Ref Mentoring Program — overview & recruitment
 - Team responsibilities & deductions (regarding refs)
 - Zero-tolerance policy — new RAPP guidance & expectations
-- "Declaring volunteers — no parent coaches" — read as: ref recruitment
-  excludes parent coaches (conflict of interest). Flagging in case it means
-  something more specific for our team.
+- "Declaring volunteers — no parent coaches" — unclear, doesn't obviously
+  apply to us (nearly all our coaches are parents). Leaving as-is unless
+  region clarifies.
 
 ## Game format (7v7 / 10U)
 
