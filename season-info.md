@@ -47,6 +47,13 @@ export preserved in `reference/`). Update this file as answers come in.
 | Punting / drop kicks | Not allowed |
 | Headers | Not allowed |
 
+## Volunteers needed
+
+| Role | Status |
+|------|--------|
+| Assistant Coach | Needed — must complete training by Aug 22 deadline once found |
+| 4th Referee | Nice to have — currently 3 (Samuel, Christian, Leo) |
+
 ## Notes for parent email
 
 | Item | Status |
@@ -61,7 +68,7 @@ export preserved in `reference/`). Update this file as answers come in.
 
 | Question | Answer |
 |----------|--------|
-| Assistant coach — training done by Aug 22? | No AC listed on the roster yet — need to recruit/confirm one, or running solo? |
+| Assistant coach — training done by Aug 22? | Not yet found — see Volunteers needed above |
 | Challenger session dates & locations | |
 | First touch clinic dates & locations | |
 | Sportsmanship coin — who awards (coach / ref / team)? | |
