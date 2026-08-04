@@ -1,4 +1,4 @@
-# U9 Boys — Coaches Meeting Notes
+# 10U Boys — Coaches Meeting Notes
 
 **Meeting date:** Sunday, August 3, 2026
 
@@ -11,7 +11,7 @@
 | Sat Aug 22 | **Kick-off** + deadline for required coach training (same deadline for HC and AC) |
 | Mon Aug 24 | Gear & uniform distribution |
 
-## Game format (7v7 / U9)
+## Game format (7v7 / 10U)
 
 - 7v7, size 4 ball
 - Build-out line required; opponents retreat on goal kicks & GK possession
@@ -78,8 +78,8 @@ Both separate from my practices. Free + regional means push for full turnout:
 
 ## Files
 
-- Sportsmanship Tracker - U9 Boys (Google Sheet)
-- U9 Boys - Season Info (Google Sheet)
+- Sportsmanship Tracker - 10U Boys (Google Sheet)
+- 10U Boys - Season Info (Google Sheet)
 
 > Note: I can create and read Drive files but NOT edit them. No Notes app access, no calendar access.
 
