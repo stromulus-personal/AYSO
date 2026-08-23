@@ -10,7 +10,8 @@ thin for anyone not met yet.
 
 ## Beckett Davis
 
-
+- New to soccer
+- Might also play baseball (unconfirmed)
 
 ## Cortez Esperias
 
@@ -41,4 +42,5 @@ thin for anyone not met yet.
 
 ## Leon Pecho
 
-
+- New to soccer
+- Plays baseball
