@@ -10,18 +10,35 @@ treat as possible beginners until seen.
 
 ## Coaching approach
 
+- **Arrive-and-play:** kids grab a ball and play the moment they show up
+  (free dribble, juggle attempts, shots at an open goal) — no waiting for
+  the huddle. Arrivals straggle; nobody stands around. Huddle happens once
+  most are there, and stays short.
+- **Talk-time cap:** an 8-year-old's listening span is roughly their age in
+  minutes. Every huddle and instruction block ≤ 3 minutes; rules chats ≤ 1
+  minute of talking plus a demo.
 - Every kid touches a ball constantly — no lines, no standing around
 - Same activity for everyone; beginners get space and forgiving rules,
   veterans get tighter cones/quicker pressure — don't split into groups
-- Name rondo the first two practices (learn 9 names fast, ball-touch built in)
+- Name rondo the first two practices (learn 9 names fast, ball-touch built
+  in). **Round one with hands** (throw-and-catch while calling names), then
+  switch to feet — a feet-first rondo fails for total beginners and turns
+  the welcome game into a frustration game.
+- **Buddy pairs:** Isaac, Daniel, and Zayden each get a newer buddy for
+  partner drills and demos. Gives beginners a peer model, gives Zayden a
+  "teach it" role (engagement hook), and advances the make-friends mission.
 - Daniel: short instructions, keep the activity moving — attention holds
   better when he's not standing still listening
 - Zayden: lean into competition/game framing over isolated drills. Watch for
   him checking out; pull him back with a specific callout when he's locked
   in (good sportsmanship-coin material too)
-- Early September heat: 2 water breaks per practice, not 1. Each one doubles
-  as a 3–5 min "rules chat" — kids sit, drink, hear one short rule, no big
-  lecture (see below for what to say)
+- **Heat plan:** the 2 scheduled breaks below are the teaching moments
+  (rules chats), but hydration is more frequent than that — quick 60–90
+  second "flash breaks" every 15–20 min, bottles lined up on the sideline,
+  drink-when-you-pass. No schedule change needed; it's a habit, not a slot.
+- **Plan for 7 or 8 kids, not 9:** attendance won't be perfect. Scrimmage
+  formats that survive absences: 3v3 with a rotating third team, or 4v3
+  with the extra player on whichever side needs the help.
 
 ## Rules chats — what to actually say
 
@@ -77,8 +94,9 @@ these.
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:08 | Arrival, welcome huddle — introduce the 3 goals (fun, friends, skills), set the closing-huddle ritual now |
-| 6:08–6:18 | Name rondo |
+| 6:00–6:08 | Arrive-and-play: ball each, free dribble/juggle/shoot as kids trickle in |
+| 6:08–6:11 | Welcome huddle (3 min max) — the 3 goals (fun, friends, skills), set the closing-huddle ritual now |
+| 6:11–6:18 | Name rondo — round one with hands, then feet |
 | 6:18–6:33 | Individual ball mastery: toe taps, sole rolls, cone weaves — 1 ball each |
 | 6:33–6:38 | **Water + rules chat: Captain** |
 | 6:38–6:53 | Sharks & Minnows (dribble the grid, avoid the shark) — pure touches, forgiving for beginners |
@@ -91,7 +109,7 @@ these.
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:05 | Arrival, huddle |
+| 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle |
 | 6:05–6:15 | Name rondo (progression: call the name you're passing AWAY from) |
 | 6:15–6:30 | Ball mastery: same moves + stop/turn/pull-back |
 | 6:30–6:35 | **Water + rules chat: Build-out line, part 1** — what it is, why we have it |
@@ -105,7 +123,7 @@ these.
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:05 | Arrival, huddle |
+| 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle |
 | 6:05–6:15 | Name rondo (add a defender, or two balls) |
 | 6:15–6:30 | Partner passing — stationary then moving, soft first touch |
 | 6:30–6:35 | **Water + rules chat: Goalkeeper hands** |
@@ -119,10 +137,10 @@ these.
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:05 | Arrival, huddle + quick logistics reminder for game day |
+| 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle + game-day logistics reminder |
 | 6:05–6:15 | Name rondo |
-| 6:15–6:25 | Quick ball mastery refresh |
-| 6:25–6:30 | **Water + rules chat: Offside, light version** |
+| 6:15–6:25 | "Game stuff" circuit — everyone takes one throw-in, everyone stands behind the build-out line once, one kickoff, one goal kick with keeper roll-out. Live reps, not talk |
+| 6:25–6:30 | **Water + rules chat: Offside, light version** + 2-min shape intro: back group, middle group, front group, everyone rotates. Nothing deeper — shape is the weeks 10–12 block |
 | 6:30–7:05 | Mini scrimmage tournament — 2–3 small teams, rotating short games (mimics game pacing) |
 | 7:05–7:10 | **Water + full rules recap** — captain, throw-ins, build-out line, keeper hands, offside, in one quick pass |
 | 7:10–7:22 | Extended scrimmage / free play |
