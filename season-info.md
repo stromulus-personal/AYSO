@@ -31,7 +31,7 @@ export preserved in `reference/`). Update this file as answers come in.
 ## Practices
 
 - Tuesdays and Thursdays, 6:00–7:30pm
-- Location: TBD
+- Location: Dana Middle School
 
 ## Referee program (region)
 
