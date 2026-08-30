@@ -11,7 +11,7 @@ export preserved in `reference/`). Update this file as answers come in.
 | Sat, Aug 15 | 12U coach training | N/A for us |
 | Sat, Aug 22 | **KICK-OFF** | Also deadline for required coach training (HC and AC) |
 | Mon, Aug 24 | Gear & uniform distribution | |
-| Tue, Sep 1 | First practice | 90 minutes |
+| Tue, Sep 1 | First practice | 6:00–7:30pm |
 | Fri, Sep 12 | Games begin | Kick-off (Aug 22) is the event; actual games start ~3 weeks later |
 | Sun, Sep 20 | Picture Day | |
 | Week of Sep 28 | Coach Meeting | |
@@ -30,9 +30,8 @@ export preserved in `reference/`). Update this file as answers come in.
 
 ## Practices
 
-- Tuesdays, 90 minutes (based on first practice, Sep 1 — confirm if this
-  isn't the standing weekly slot)
-- Time of day / location: TBD
+- Tuesdays and Thursdays, 6:00–7:30pm
+- Location: TBD
 
 ## Referee program (region)
 
