@@ -33,6 +33,11 @@ export preserved in `reference/`). Update this file as answers come in.
 - Tuesdays and Thursdays, 6:00–7:30pm
 - Location: Dana Middle School
 
+## Equipment
+
+- 2x 8'x5' goals — have
+- Cones — plenty, have. [Flexible soccer cones, 25-pack](https://www.amazon.com/dp/B0DSV92W4B?ref=ppx_pop_mob_ap_share)
+
 ## Referee program (region)
 
 - New Ref Mentoring Program — overview & recruitment
