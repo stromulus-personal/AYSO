@@ -47,6 +47,32 @@ game 1.
   build-out line waiting for a pass with no defender near you. Save the
   full explanation for later — this is the one that takes repetition.
 
+## Fun cardio (not laps)
+
+Wind's a big factor here — favor ground-based games over anything with a
+lofted ball or lightweight prop that'll blow around. The flexible disc
+cones already handle wind fine; skip tall pop-up cones or loose pinnies for
+these.
+
+- **Crocodile Tag:** 1–2 taggers ("crocodiles") in the middle of the grid,
+  everyone else tries to cross without getting tagged. Tagged kids become
+  crocodiles too, so the game self-escalates. No equipment to blow around.
+- **Ball-Touch Freeze Tag:** Standard freeze tag, but tagged kids freeze
+  with legs open — a teammate unfreezes them by dribbling or rolling a ball
+  through their legs. Cardio + ball skill + teamwork in one. Ball stays on
+  the ground the whole time, so wind barely matters.
+- **Color/Number Sprint:** Disc cones of different colors in the corners of
+  a grid. Kids jog/shuffle in the middle; call a color, they sprint to
+  touch it and return. Real interval cardio (sprint + recovery) but reads
+  as a game, not conditioning.
+- **World Cup Dribble Knockout:** Everyone dribbles in a grid, tries to
+  knock others' balls out while guarding their own. Knocked-out kids do 5
+  toe taps on the sideline, then jump back in — no standing around waiting.
+- **Team Shuttle Challenge:** Small teams, shuttle-relay format, but each
+  leg is a different silly locomotion (bear crawl out, backpedal back,
+  side-shuffle) instead of straight running. Same conditioning as laps,
+  doesn't feel like laps.
+
 ## Practice 1 — Tue Sep 1 — "Meet the ball, meet each other"
 
 | Time | Activity |
@@ -72,7 +98,7 @@ game 1.
 | 6:35–6:50 | Dribble tag / traffic jam (moving through traffic without losing the ball) |
 | 6:50–6:55 | **Water break** (no new topic, let part 1 sink in) |
 | 6:55–7:15 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live |
-| 7:15–7:22 | Water + fun finisher |
+| 7:15–7:22 | Water + fun finisher: **Crocodile Tag** |
 | 7:22–7:30 | Closing huddle |
 
 ## Practice 3 — Tue Sep 8 — "First touch, first pass"
@@ -86,7 +112,7 @@ game 1.
 | 6:35–6:50 | Dribble-and-pass grid game |
 | 6:50–6:55 | **Water + rules chat: Build-out line recap** (quick — did it stick from Practice 2?) |
 | 6:55–7:15 | Scrimmage — lightly nudge toward passing, keeper rotates through so everyone feels the hands rule |
-| 7:15–7:22 | Water + fun finisher |
+| 7:15–7:22 | Water + fun finisher: **Ball-Touch Freeze Tag** |
 | 7:22–7:30 | Closing huddle |
 
 ## Practice 4 — Thu Sep 10 — "Get game-ready"
