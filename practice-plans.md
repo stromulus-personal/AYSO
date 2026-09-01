@@ -39,6 +39,9 @@ treat as possible beginners until seen.
 - **Plan for 7 or 8 kids, not 9:** attendance won't be perfect. Scrimmage
   formats that survive absences: 3v3 with a rotating third team, or 4v3
   with the extra player on whichever side needs the help.
+- **Scrimmage minimum (owner rule, 2026-09-01):** a scrimmage under 15
+  minutes isn't worth doing — schedule 15+ or skip it. Practice 1 (throw-in
+  block instead) is the sanctioned exception.
 
 ## Rules chats — what to actually say
 
