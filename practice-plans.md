@@ -102,7 +102,7 @@ these.
 | 6:38–6:53 | Sharks & Minnows (dribble the grid, avoid the shark) — pure touches, forgiving for beginners |
 | 6:53–6:58 | **Water + rules chat: Throw-ins** |
 | 6:58–7:15 | Small-sided scrimmage, 3v3/4v4 — call out a throw-in when the ball goes out, let them try it |
-| 7:15–7:22 | Water + fun finisher |
+| 7:15–7:22 | Water + fun finisher: **Crocodile Tag** (zero setup, zero skill needed — perfect day one) |
 | 7:22–7:30 | Closing huddle, 2–3 specific shout-outs |
 
 ## Practice 2 — Thu Sep 3 — "Keep control, add movement"
@@ -116,7 +116,7 @@ these.
 | 6:35–6:50 | Dribble tag / traffic jam (moving through traffic without losing the ball) |
 | 6:50–6:55 | **Water break** (no new topic, let part 1 sink in) |
 | 6:55–7:15 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live |
-| 7:15–7:22 | Water + fun finisher: **Crocodile Tag** |
+| 7:15–7:22 | Water + fun finisher: **Color/Number Sprint** (cones are already out from ball mastery) |
 | 7:22–7:30 | Closing huddle |
 
 ## Practice 3 — Tue Sep 8 — "First touch, first pass"
