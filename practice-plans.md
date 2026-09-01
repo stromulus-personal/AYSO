@@ -126,7 +126,7 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 6:40–6:45 | **Water + rules chat: Captain** |
 | 6:45–6:55 | Sharks & Minnows (dribble the grid, avoid the shark) — pure touches, forgiving for beginners |
 | 6:55–7:00 | **Water + rules chat: Throw-ins** |
-| 7:00–7:10 | Small-sided scrimmage, 3v3/4v4 — call out a throw-in when the ball goes out, let them try it |
+| 7:00–7:10 | Throw-in practice ("describe then do"): 1 min demo — legal vs. foul throw, kids call it. 4 min buddy-pair reps over a cone sideline (both feet down, ball behind head, both hands), partner traps and dribbles back. 4 min "Foul or Fine?" — each kid throws, the group referees thumbs up/down. 1 min game-speed throw to a moving buddy |
 | 7:10–7:15 | Fun finisher: **Crocodile Tag** (zero setup, zero skill needed — perfect day one; grab water first) |
 | 7:15–7:20 | Closing huddle, 2–3 specific shout-outs |
 | 7:20–7:30 | **Parent huddle** — TeamReach join check, volunteer asks (AC, team manager, ref slots), fun-first philosophy, "details in the app" |
