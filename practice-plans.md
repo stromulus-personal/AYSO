@@ -90,58 +90,90 @@ these.
   side-shuffle) instead of straight running. Same conditioning as laps,
   doesn't feel like laps.
 
+## Warm-up routine — every practice, right after the huddle (5 min)
+
+Same order every time so the kids learn it as a ritual; hand it to the
+day's captain to lead once they know it. Dynamic movements, not static
+holds — static stretching before activity isn't recommended at this age.
+(If you want stretching in the session, a couple of gentle static
+stretches during the closing huddle works as a cool-down.)
+
+1. Easy jog around the grid — ~1 min
+2. High knees across, butt kicks back
+3. Side shuffle across and back (switch lead leg)
+4. Open-the-gate / close-the-gate hip circles — 5 each leg
+5. Toy-soldier kicks (straight leg, touch your hand) — 10 steps
+6. Lunge walk — 6 steps
+7. Flamingo balance — 10 seconds each leg
+8. Arm windmills + ankle circles while balancing
+9. Three "jump and stick the landing" hops
+10. Two sprint bursts through the grid to finish hot
+
+## Parent huddle — 7:20–7:30
+
+Kid activities end at 7:20 sharp; closing huddle included. 7:20–7:30 is
+for talking to parents at pickup (kids free-play or collect gear).
+
 ## Practice 1 — Tue Sep 1 — "Meet the ball, meet each other"
 
 | Time | Activity |
 |------|----------|
 | 6:00–6:10 | Arrive-and-play: ball each, free dribble/juggle/shoot as kids trickle in |
 | 6:10–6:15 | Welcome huddle (talk 3 min max) — the 3 goals (fun, friends, skills), set the closing-huddle ritual now |
-| 6:15–6:25 | Name rondo — round one with hands, then feet |
-| 6:25–6:40 | Individual ball mastery: toe taps, sole rolls, cone weaves — 1 ball each |
+| 6:15–6:20 | **Warm-up routine** (see above — coach leads it this first time) |
+| 6:20–6:30 | Name rondo — round one with hands, then feet |
+| 6:30–6:40 | Individual ball mastery: toe taps, sole rolls, cone weaves — 1 ball each |
 | 6:40–6:45 | **Water + rules chat: Captain** |
-| 6:45–7:00 | Sharks & Minnows (dribble the grid, avoid the shark) — pure touches, forgiving for beginners |
-| 7:00–7:05 | **Water + rules chat: Throw-ins** |
-| 7:05–7:20 | Small-sided scrimmage, 3v3/4v4 — call out a throw-in when the ball goes out, let them try it |
-| 7:20–7:25 | Fun finisher: **Crocodile Tag** (zero setup, zero skill needed — perfect day one; grab water first) |
-| 7:25–7:30 | Closing huddle, 2–3 specific shout-outs |
+| 6:45–6:55 | Sharks & Minnows (dribble the grid, avoid the shark) — pure touches, forgiving for beginners |
+| 6:55–7:00 | **Water + rules chat: Throw-ins** |
+| 7:00–7:10 | Small-sided scrimmage, 3v3/4v4 — call out a throw-in when the ball goes out, let them try it |
+| 7:10–7:15 | Fun finisher: **Crocodile Tag** (zero setup, zero skill needed — perfect day one; grab water first) |
+| 7:15–7:20 | Closing huddle, 2–3 specific shout-outs |
+| 7:20–7:30 | **Parent huddle** — TeamReach join check, volunteer asks (AC, team manager, ref slots), fun-first philosophy, "details in the app" |
 
 ## Practice 2 — Thu Sep 3 — "Keep control, add movement"
 
 | Time | Activity |
 |------|----------|
 | 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle |
-| 6:05–6:15 | Name rondo (progression: call the name you're passing AWAY from) |
-| 6:15–6:30 | Ball mastery: same moves + stop/turn/pull-back |
+| 6:05–6:10 | **Warm-up routine** |
+| 6:10–6:20 | Name rondo (progression: call the name you're passing AWAY from) |
+| 6:20–6:30 | Ball mastery: same moves + stop/turn/pull-back |
 | 6:30–6:35 | **Water + rules chat: Build-out line, part 1** — what it is, why we have it |
-| 6:35–6:50 | Dribble tag / traffic jam (moving through traffic without losing the ball) |
-| 6:50–6:55 | **Water break** (no new topic, let part 1 sink in) |
-| 6:55–7:15 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live |
-| 7:15–7:25 | Water + fun finisher: **Color/Number Sprint** (cones are already out from ball mastery) |
-| 7:25–7:30 | Closing huddle |
+| 6:35–6:45 | Dribble tag / traffic jam (moving through traffic without losing the ball) |
+| 6:45–6:50 | **Water break** (no new topic, let part 1 sink in) |
+| 6:50–7:10 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live |
+| 7:10–7:15 | Fun finisher: **Color/Number Sprint** (cones are already out from ball mastery) |
+| 7:15–7:20 | Closing huddle |
+| 7:20–7:30 | Parent huddle as needed / pickup buffer |
 
 ## Practice 3 — Tue Sep 8 — "First touch, first pass"
 
 | Time | Activity |
 |------|----------|
 | 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle |
-| 6:05–6:15 | Name rondo (add a defender, or two balls) |
-| 6:15–6:30 | Partner passing — stationary then moving, soft first touch |
+| 6:05–6:10 | **Warm-up routine** (captain-led if they're ready) |
+| 6:10–6:20 | Name rondo (add a defender, or two balls) |
+| 6:20–6:30 | Partner passing — stationary then moving, soft first touch |
 | 6:30–6:35 | **Water + rules chat: Goalkeeper hands** |
-| 6:35–6:50 | Dribble-and-pass grid game |
-| 6:50–6:55 | **Water + rules chat: Build-out line recap** (quick — did it stick from Practice 2?) |
-| 6:55–7:15 | Scrimmage — lightly nudge toward passing, keeper rotates through so everyone feels the hands rule |
-| 7:15–7:25 | Water + fun finisher: **Ball-Touch Freeze Tag** |
-| 7:25–7:30 | Closing huddle |
+| 6:35–6:45 | Dribble-and-pass grid game |
+| 6:45–6:50 | **Water + rules chat: Build-out line recap** (quick — did it stick from Practice 2?) |
+| 6:50–7:10 | Scrimmage — lightly nudge toward passing, keeper rotates through so everyone feels the hands rule |
+| 7:10–7:15 | Fun finisher: **Ball-Touch Freeze Tag** |
+| 7:15–7:20 | Closing huddle |
+| 7:20–7:30 | Parent huddle as needed / pickup buffer |
 
 ## Practice 4 — Thu Sep 10 — "Get game-ready"
 
 | Time | Activity |
 |------|----------|
 | 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle + game-day logistics reminder |
-| 6:05–6:15 | Name rondo |
-| 6:15–6:25 | "Game stuff" circuit — everyone takes one throw-in, everyone stands behind the build-out line once, one kickoff, one goal kick with keeper roll-out. Live reps, not talk |
-| 6:25–6:30 | **Water + rules chat: Offside, light version** + 2-min shape intro: back group, middle group, front group, everyone rotates. Nothing deeper — shape is the weeks 10–12 block |
-| 6:30–7:05 | Mini scrimmage tournament — 2–3 small teams, rotating short games (mimics game pacing) |
-| 7:05–7:10 | **Water + full rules recap** — captain, throw-ins, build-out line, keeper hands, offside, in one quick pass |
-| 7:10–7:25 | Extended scrimmage / free play |
-| 7:25–7:30 | Closing huddle — hype for game 1 |
+| 6:05–6:10 | **Warm-up routine** (captain-led — this is also the pre-game warm-up, so it's rehearsal) |
+| 6:10–6:20 | Name rondo |
+| 6:20–6:30 | "Game stuff" circuit — everyone takes one throw-in, everyone stands behind the build-out line once, one kickoff, one goal kick with keeper roll-out. Live reps, not talk |
+| 6:30–6:35 | **Water + rules chat: Offside, light version** + 2-min shape intro: back group, middle group, front group, everyone rotates. Nothing deeper — shape is the weeks 10–12 block |
+| 6:35–7:00 | Mini scrimmage tournament — 2–3 small teams, rotating short games (mimics game pacing) |
+| 7:00–7:05 | **Water + full rules recap** — captain, throw-ins, build-out line, keeper hands, offside, in one quick pass |
+| 7:05–7:15 | Extended scrimmage / free play |
+| 7:15–7:20 | Closing huddle — hype for game 1 |
+| 7:20–7:30 | **Parent huddle — game 1 logistics:** where, when to arrive, uniforms, snack plan, technical-areas rule |
