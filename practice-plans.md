@@ -116,8 +116,8 @@ these.
 | 6:35–6:50 | Dribble tag / traffic jam (moving through traffic without losing the ball) |
 | 6:50–6:55 | **Water break** (no new topic, let part 1 sink in) |
 | 6:55–7:15 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live |
-| 7:15–7:22 | Water + fun finisher: **Color/Number Sprint** (cones are already out from ball mastery) |
-| 7:22–7:30 | Closing huddle |
+| 7:15–7:25 | Water + fun finisher: **Color/Number Sprint** (cones are already out from ball mastery) |
+| 7:25–7:30 | Closing huddle |
 
 ## Practice 3 — Tue Sep 8 — "First touch, first pass"
 
@@ -130,8 +130,8 @@ these.
 | 6:35–6:50 | Dribble-and-pass grid game |
 | 6:50–6:55 | **Water + rules chat: Build-out line recap** (quick — did it stick from Practice 2?) |
 | 6:55–7:15 | Scrimmage — lightly nudge toward passing, keeper rotates through so everyone feels the hands rule |
-| 7:15–7:22 | Water + fun finisher: **Ball-Touch Freeze Tag** |
-| 7:22–7:30 | Closing huddle |
+| 7:15–7:25 | Water + fun finisher: **Ball-Touch Freeze Tag** |
+| 7:25–7:30 | Closing huddle |
 
 ## Practice 4 — Thu Sep 10 — "Get game-ready"
 
@@ -143,5 +143,5 @@ these.
 | 6:25–6:30 | **Water + rules chat: Offside, light version** + 2-min shape intro: back group, middle group, front group, everyone rotates. Nothing deeper — shape is the weeks 10–12 block |
 | 6:30–7:05 | Mini scrimmage tournament — 2–3 small teams, rotating short games (mimics game pacing) |
 | 7:05–7:10 | **Water + full rules recap** — captain, throw-ins, build-out line, keeper hands, offside, in one quick pass |
-| 7:10–7:22 | Extended scrimmage / free play |
-| 7:22–7:30 | Closing huddle — hype for game 1 |
+| 7:10–7:25 | Extended scrimmage / free play |
+| 7:25–7:30 | Closing huddle — hype for game 1 |
