@@ -94,16 +94,16 @@ these.
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:08 | Arrive-and-play: ball each, free dribble/juggle/shoot as kids trickle in |
-| 6:08–6:11 | Welcome huddle (3 min max) — the 3 goals (fun, friends, skills), set the closing-huddle ritual now |
-| 6:11–6:18 | Name rondo — round one with hands, then feet |
-| 6:18–6:33 | Individual ball mastery: toe taps, sole rolls, cone weaves — 1 ball each |
-| 6:33–6:38 | **Water + rules chat: Captain** |
-| 6:38–6:53 | Sharks & Minnows (dribble the grid, avoid the shark) — pure touches, forgiving for beginners |
-| 6:53–6:58 | **Water + rules chat: Throw-ins** |
-| 6:58–7:15 | Small-sided scrimmage, 3v3/4v4 — call out a throw-in when the ball goes out, let them try it |
-| 7:15–7:22 | Water + fun finisher: **Crocodile Tag** (zero setup, zero skill needed — perfect day one) |
-| 7:22–7:30 | Closing huddle, 2–3 specific shout-outs |
+| 6:00–6:10 | Arrive-and-play: ball each, free dribble/juggle/shoot as kids trickle in |
+| 6:10–6:15 | Welcome huddle (talk 3 min max) — the 3 goals (fun, friends, skills), set the closing-huddle ritual now |
+| 6:15–6:25 | Name rondo — round one with hands, then feet |
+| 6:25–6:40 | Individual ball mastery: toe taps, sole rolls, cone weaves — 1 ball each |
+| 6:40–6:45 | **Water + rules chat: Captain** |
+| 6:45–7:00 | Sharks & Minnows (dribble the grid, avoid the shark) — pure touches, forgiving for beginners |
+| 7:00–7:05 | **Water + rules chat: Throw-ins** |
+| 7:05–7:20 | Small-sided scrimmage, 3v3/4v4 — call out a throw-in when the ball goes out, let them try it |
+| 7:20–7:25 | Fun finisher: **Crocodile Tag** (zero setup, zero skill needed — perfect day one; grab water first) |
+| 7:25–7:30 | Closing huddle, 2–3 specific shout-outs |
 
 ## Practice 2 — Thu Sep 3 — "Keep control, add movement"
 
