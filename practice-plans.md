@@ -170,7 +170,7 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 6:15–6:20 | Name rondo, 3-step (chest pass → throw-in → kick). Progression: call the name you're passing AWAY from |
 | 6:20–6:30 | Ball mastery: same moves + stop/turn/pull-back |
 | 6:30–6:35 | **Water + rules chat: Build-out line, part 1** — what it is, why we have it |
-| 6:35–6:45 | Dribble tag / traffic jam (moving through traffic without losing the ball) |
+| 6:35–6:45 | **Traffic Jam → Dribble Tag.** 5 min Traffic Jam: everyone dribbling in a tight grid (~15x15), coach calls stop / turn / speed up / switch feet; bump or lose the ball = 3 toe taps and back in. Then 5 min Dribble Tag: same grid, 1–2 taggers (start with Zayden + a Nosic) tag by touching your ball with a foot; tagged kids become taggers. Nobody sits out |
 | 6:45–6:50 | **Water break** (no new topic, let part 1 sink in) |
 | 6:50–7:15 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live. Put Cortez in goal for a stretch so the restart has a real keeper. Extended to 25 min after P1 showed the group can handle it |
 | 7:15–7:20 | Closing huddle (Color/Number Sprint dropped — swap back in only if the scrimmage fizzles) |
