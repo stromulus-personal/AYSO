@@ -40,6 +40,7 @@ Beckett, Leon. Weaker for now: Daniel, Cortez.
 - Some behavior differences — mainly trouble with attention
 - P1: large body but lacks fitness; behavioral/attention challenges persist.
   One of the two weaker links for now
+- Took a turn in goal at P1 (everyone wanted it)
 
 ## Zayden Mercado
 

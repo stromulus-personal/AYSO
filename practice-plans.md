@@ -54,8 +54,10 @@ showed to P1. See `notes/2026-09-01-practice-1.md`.
 - **P1 lesson:** the scrimmage ran to the end of practice and the group
   handled it. With this much talent, err toward longer scrimmage and drop
   the finisher if the game is going well — the game IS the finisher.
-- **Cortez in goal:** he volunteered and looked okay. Let him take extra
-  keeper reps when the hands rule comes up (P3), but still rotate everyone.
+- **Goalie enthusiasm:** basically every kid demanded to be keeper in the
+  P1 scrimmage (classic pre-game-one energy). Cortez and Daniel got turns.
+  Dedicated goalie session at P3; keep rotating everyone through in
+  scrimmages so nobody's stuck waiting for "his turn".
 - **Mikey/Grayson:** channel the energy — give them the "find a friend"
   nudge early (a pass before a shot) rather than waiting for the weeks 7–9
   block.
@@ -107,9 +109,8 @@ Drills that have worked across seasons. Reuse freely.
     defensive positioning, communication.
   - Vary the numbers to make a point: outnumber the defense to reward
     passing, outnumber the attack to force defenders to talk.
-  - Fits P3 ("First touch, first pass") as a live alternative to the
-    dribble-and-pass grid game, and is the natural centerpiece of the
-    weeks 7–9 "finding a friend" block.
+  - Natural centerpiece of the weeks 7–9 "finding a friend" block; can
+    slot into any scrimmage-heavy practice before then as a 10-min block.
 
 ## Fun cardio (not laps)
 
@@ -207,9 +208,8 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 6:10–6:20 | Name rondo (add a defender, or two balls) |
 | 6:20–6:30 | Partner passing — stationary then moving, soft first touch |
 | 6:30–6:35 | **Water + rules chat: Goalkeeper hands** |
-| 6:35–6:45 | Dribble-and-pass grid game, or **Around the World** (3v2 / 4v3 — attackers outnumber, so passing gets rewarded) |
-| 6:45–6:50 | **Water + rules chat: Build-out line recap** (quick — did it stick from Practice 2?) |
-| 6:50–7:10 | Scrimmage — lightly nudge toward passing, keeper rotates through so everyone feels the hands rule |
+| 6:35–6:50 | **Goalie session** (everyone demanded to be keeper at P1 — ride it). 3 min technique, one cue each: ready position, W hands for high balls, scoop-and-hug for low, body behind the ball. Then rapid-fire saves at BOTH goals: two groups of 4–5, coach throws at one, a veteran (Isaac or Zayden) serves at the other, ~1 min per kid, others retrieve and cheer. Flash water at the end |
+| 6:50–7:10 | Scrimmage — keeper rotates every few minutes so everyone gets a live turn (Cortez and Daniel already went at P1, start with the other 7). Run one goal-kick restart as the build-out line recap. Lightly nudge toward passing |
 | 7:10–7:15 | Fun finisher: **Ball-Touch Freeze Tag** |
 | 7:15–7:20 | Closing huddle |
 | 7:20–7:30 | Parent huddle as needed / pickup buffer |
