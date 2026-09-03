@@ -195,7 +195,7 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 6:30–6:35 | **Water + rules chat: Build-out line, part 1** — what it is, why we have it |
 | 6:35–6:45 | **Traffic Jam → Dribble Tag.** 5 min Traffic Jam: everyone dribbling in a tight grid (~15x15), coach calls stop / turn / speed up / switch feet; bump or lose the ball = 3 toe taps and back in. Then 5 min Dribble Tag: same grid, 1–2 taggers (start with Zayden + a Nosic) tag by touching your ball with a foot; tagged kids become taggers. Nobody sits out |
 | 6:45–6:50 | **Water break** (no new topic, let part 1 sink in) |
-| 6:50–7:15 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live. Put Cortez in goal for a stretch so the restart has a real keeper. Extended to 25 min after P1 showed the group can handle it |
+| 6:50–7:15 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live. Put Cortez in goal for a stretch so the restart has a real keeper. One defending cue only: "get between the ball and our goal" — say it once at the restart, then call it out when someone does it (Zayden). Extended to 25 min after P1 showed the group can handle it |
 | 7:15–7:20 | Closing huddle (Color/Number Sprint dropped — swap back in only if the scrimmage fizzles) |
 | 7:20–7:30 | **Parent huddle: jersey distribution.** Hand out with parents present so sizing gets sorted on the spot. Note each kid's number in `roster.md`. Quick volunteer update: refs covered, no AC, still open to a team parent |
 
@@ -223,7 +223,7 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 6:10–6:20 | Name rondo |
 | 6:20–6:30 | "Game stuff" circuit — everyone takes one throw-in, everyone stands behind the build-out line once, one kickoff, one goal kick with keeper roll-out. Live reps, not talk |
 | 6:30–6:35 | **Water + rules chat: Offside, light version** + 2-min shape intro: back group, middle group, front group, everyone rotates. Nothing deeper — shape is the weeks 10–12 block |
-| 6:35–7:00 | Mini scrimmage tournament — 2–3 small teams, rotating short games (mimics game pacing) |
+| 6:35–7:00 | Mini scrimmage tournament — 2–3 small teams, rotating short games (mimics game pacing). Option: open with 10 min of **Around the World** as the first defending lesson before game 1 |
 | 7:00–7:05 | **Water + full rules recap** — captain, throw-ins, build-out line, keeper hands, offside, in one quick pass |
 | 7:05–7:15 | Extended scrimmage / free play |
 | 7:15–7:20 | Closing huddle — hype for game 1 |
