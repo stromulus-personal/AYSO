@@ -12,9 +12,13 @@ showed to P1. See `notes/2026-09-01-practice-1.md`.
 
 ## Coaching approach
 
-- **Arrive-and-play:** kids grab a ball and play the moment they show up
-  (free dribble, juggle attempts, shots at an open goal) — no waiting for
-  the huddle. Arrivals straggle; nobody stands around. Huddle happens once
+- **Arrive-and-play — "Score and Reset" (worked at P1, standing setup):**
+  one goal at the far end, a line of cones at the near end. Kids grab a
+  ball and shoot as soon as they show up. Only rule: after you score, you
+  dribble the ball back to the cone line before you can shoot again. No
+  waiting for the huddle, nobody stands around, and the dribble-back is
+  fun cardio without calling it that. Set the goal and cone line before
+  the first kid arrives. Arrivals straggle; nobody stands around. Huddle happens once
   most are there, and stays short.
 - **Talk-time cap:** an 8-year-old's listening span is roughly their age in
   minutes. Every huddle and instruction block ≤ 3 minutes; rules chats ≤ 1
@@ -106,6 +110,10 @@ these.
 - **World Cup Dribble Knockout:** Everyone dribbles in a grid, tries to
   knock others' balls out while guarding their own. Knocked-out kids do 5
   toe taps on the sideline, then jump back in — no standing around waiting.
+- **Score and Reset:** the arrive-and-play setup (goal far end, cone line
+  near end, score then dribble back to the line before shooting again).
+  Already cardio; can also run as a finisher with a shot clock or a
+  team goal count.
 - **Team Shuttle Challenge:** Small teams, shuttle-relay format, but each
   leg is a different silly locomotion (bear crawl out, backpedal back,
   side-shuffle) instead of straight running. Same conditioning as laps,
@@ -156,7 +164,7 @@ for talking to parents at pickup (kids free-play or collect gear).
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:05 | Arrive-and-play (ball each). **Jerseys:** bag on the sideline, don't hand out yet — kids will get distracted trying them on |
+| 6:00–6:05 | Arrive-and-play: Score and Reset (goal far end, cone line near end, pre-set). **Jerseys:** bag on the sideline, don't hand out yet — kids will get distracted trying them on |
 | 6:05–6:10 | **Opening huddle: Sportsmanship + captain** (3 min talk max). Captain rotates, I pick him each game, captain gets the coin, name what earns it. Point at Tuesday: Beckett getting back up, Cortez taking goalie |
 | 6:10–6:15 | **Warm-up routine** |
 | 6:15–6:20 | Name rondo, 3-step (chest pass → throw-in → kick). Progression: call the name you're passing AWAY from |
