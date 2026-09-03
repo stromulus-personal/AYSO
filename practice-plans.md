@@ -23,9 +23,12 @@ showed to P1. See `notes/2026-09-01-practice-1.md`.
 - Same activity for everyone; beginners get space and forgiving rules,
   veterans get tighter cones/quicker pressure — don't split into groups
 - Name rondo the first two practices (learn 9 names fast, ball-touch built
-  in). **Round one with hands** (throw-and-catch while calling names), then
-  switch to feet — a feet-first rondo fails for total beginners and turns
-  the welcome game into a frustration game.
+  in). **Three-step version (worked at P1, keep it as a standing warm-up):**
+  1. Basketball chest passes, calling the name
+  2. Soccer throws — throw-in form, both feet down, ball behind the head
+  3. Kicked passes
+  Hands-first keeps beginners in it, and step 2 sneaks in throw-in reps
+  every time without a separate throw-in block.
 - **Buddy pairs:** Isaac, Daniel, and Zayden each get a newer buddy for
   partner drills and demos. Gives beginners a peer model, gives Zayden a
   "teach it" role (engagement hook), and advances the make-friends mission.
@@ -156,7 +159,7 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 6:00–6:05 | Arrive-and-play (ball each). **Jerseys:** bag on the sideline, don't hand out yet — kids will get distracted trying them on |
 | 6:05–6:10 | **Opening huddle: Sportsmanship + captain** (3 min talk max). Captain rotates, I pick him each game, captain gets the coin, name what earns it. Point at Tuesday: Beckett getting back up, Cortez taking goalie |
 | 6:10–6:15 | **Warm-up routine** |
-| 6:15–6:20 | Name rondo (progression: call the name you're passing AWAY from) — shortened 5 min, they know names now |
+| 6:15–6:20 | Name rondo, 3-step (chest pass → throw-in → kick). Progression: call the name you're passing AWAY from |
 | 6:20–6:30 | Ball mastery: same moves + stop/turn/pull-back |
 | 6:30–6:35 | **Water + rules chat: Build-out line, part 1** — what it is, why we have it |
 | 6:35–6:45 | Dribble tag / traffic jam (moving through traffic without losing the ball) |
