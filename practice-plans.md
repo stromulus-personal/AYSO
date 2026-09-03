@@ -153,7 +153,7 @@ for talking to parents at pickup (kids free-play or collect gear).
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:05 | Arrive-and-play (ball each) |
+| 6:00–6:05 | Arrive-and-play (ball each). **Jerseys:** bag on the sideline, don't hand out yet — kids will get distracted trying them on |
 | 6:05–6:10 | **Opening huddle: Sportsmanship + captain** (3 min talk max). Captain rotates, I pick him each game, captain gets the coin, name what earns it. Point at Tuesday: Beckett getting back up, Cortez taking goalie |
 | 6:10–6:15 | **Warm-up routine** |
 | 6:15–6:20 | Name rondo (progression: call the name you're passing AWAY from) — shortened 5 min, they know names now |
@@ -163,7 +163,7 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 6:45–6:50 | **Water break** (no new topic, let part 1 sink in) |
 | 6:50–7:15 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live. Put Cortez in goal for a stretch so the restart has a real keeper. Extended to 25 min after P1 showed the group can handle it |
 | 7:15–7:20 | Closing huddle (Color/Number Sprint dropped — swap back in only if the scrimmage fizzles) |
-| 7:20–7:30 | Parent huddle as needed / pickup buffer |
+| 7:20–7:30 | **Parent huddle: jersey distribution.** Hand out with parents present so sizing gets sorted on the spot. Note each kid's number in `roster.md`. Quick volunteer update: refs covered, no AC, still open to a team parent |
 
 ## Practice 3 — Tue Sep 8 — "First touch, first pass"
 
