@@ -89,6 +89,28 @@ game 1.
   build-out line waiting for a pass with no defender near you. Save the
   full explanation for later — this is the one that takes repetition.
 
+## Coach Sam classics
+
+Drills that have worked across seasons. Reuse freely.
+
+- **Score and Reset** (arrive-and-play opener) — see coaching approach above.
+- **3-step name rondo** (chest pass → throw-in → kick) — see coaching
+  approach above.
+- **Around the World** — one goal at one end, a cone (or pile of cones) at
+  the other. Everyone starts on the touchline at midfield, split into
+  attackers and defenders. On "around the world!" defenders sprint around
+  the goal and attackers sprint around the cones; coach tosses the ball in
+  toward the attackers and they try to score. Quick, high-energy, and the
+  numbers can be uneven on purpose (3v2, 4v3, 2v1).
+  - Early season the defense wins most of these because attackers don't
+    pass or spread out yet — that's the teaching hook: passing, spacing,
+    defensive positioning, communication.
+  - Vary the numbers to make a point: outnumber the defense to reward
+    passing, outnumber the attack to force defenders to talk.
+  - Fits P3 ("First touch, first pass") as a live alternative to the
+    dribble-and-pass grid game, and is the natural centerpiece of the
+    weeks 7–9 "finding a friend" block.
+
 ## Fun cardio (not laps)
 
 Wind's a big factor here — favor ground-based games over anything with a
@@ -185,7 +207,7 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 6:10–6:20 | Name rondo (add a defender, or two balls) |
 | 6:20–6:30 | Partner passing — stationary then moving, soft first touch |
 | 6:30–6:35 | **Water + rules chat: Goalkeeper hands** |
-| 6:35–6:45 | Dribble-and-pass grid game |
+| 6:35–6:45 | Dribble-and-pass grid game, or **Around the World** (3v2 / 4v3 — attackers outnumber, so passing gets rewarded) |
 | 6:45–6:50 | **Water + rules chat: Build-out line recap** (quick — did it stick from Practice 2?) |
 | 6:50–7:10 | Scrimmage — lightly nudge toward passing, keeper rotates through so everyone feels the hands rule |
 | 7:10–7:15 | Fun finisher: **Ball-Touch Freeze Tag** |
