@@ -4,9 +4,11 @@ First 4 practices, in the "Ball mastery" block (weeks 1–3, "the ball is my
 friend" — see `notes/2026-08-03-coaches-meeting.md`). Tue/Thu, 6:00–7:30pm,
 Dana Middle School.
 
-**Experience mix:** Isaac, Daniel, Zayden have a year in. Leon and Beckett
-are totally new to soccer. Cortez, Thomas, Grayson, Michael — unconfirmed,
-treat as possible beginners until seen.
+**Experience mix (updated after P1, 9/1):** stronger group than expected —
+most experienced fall 10U team I've coached. Anchors: Isaac, Mikey, Grayson,
+Zayden. Solid: Thomas, Beckett, Leon. Weaker for now: Daniel (fitness,
+attention), Cortez (awkward on the ball, but volunteered for goalie). All 9
+showed to P1. See `notes/2026-09-01-practice-1.md`.
 
 ## Coaching approach
 
@@ -42,6 +44,14 @@ treat as possible beginners until seen.
 - **Scrimmage minimum (owner rule, 2026-09-01):** a scrimmage under 15
   minutes isn't worth doing — schedule 15+ or skip it. Practice 1 (throw-in
   block instead) is the sanctioned exception.
+- **P1 lesson:** the scrimmage ran to the end of practice and the group
+  handled it. With this much talent, err toward longer scrimmage and drop
+  the finisher if the game is going well — the game IS the finisher.
+- **Cortez in goal:** he volunteered and looked okay. Let him take extra
+  keeper reps when the hands rule comes up (P3), but still rotate everyone.
+- **Mikey/Grayson:** channel the energy — give them the "find a friend"
+  nudge early (a pass before a shot) rather than waiting for the weeks 7–9
+  block.
 
 ## Rules chats — what to actually say
 
@@ -145,9 +155,8 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 6:30–6:35 | **Water + rules chat: Build-out line, part 1** — what it is, why we have it |
 | 6:35–6:45 | Dribble tag / traffic jam (moving through traffic without losing the ball) |
 | 6:45–6:50 | **Water break** (no new topic, let part 1 sink in) |
-| 6:50–7:10 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live |
-| 7:10–7:15 | Fun finisher: **Color/Number Sprint** (cones are already out from ball mastery) |
-| 7:15–7:20 | Closing huddle |
+| 6:50–7:15 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live. Put Cortez in goal for a stretch so the restart has a real keeper. Extended to 25 min after P1 showed the group can handle it |
+| 7:15–7:20 | Closing huddle (Color/Number Sprint dropped — swap back in only if the scrimmage fizzles) |
 | 7:20–7:30 | Parent huddle as needed / pickup buffer |
 
 ## Practice 3 — Tue Sep 8 — "First touch, first pass"

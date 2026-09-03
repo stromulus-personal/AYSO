@@ -37,7 +37,8 @@ there's always something specific on hand when it's time to award one.
 
 | Date | Player | What happened (specific act) | Coin? |
 |------|--------|-------------------------------|-------|
-| | | | ☐ |
+| 9/1 | Beckett Davis | Got knocked down by Zayden a couple of times in the scrimmage and got right back up every time, no complaint, no fuss | ☐ |
+| 9/1 | Cortez Esperias | Volunteered to play goalie in the first scrimmage when nobody else wanted it, and stuck with it | ☐ |
 
 ## Notes
 
