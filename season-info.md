@@ -67,10 +67,9 @@ export preserved in `reference/`). Update this file as answers come in.
 
 | Role | Status |
 |------|--------|
-| Assistant Coach | Open — asked for in the welcome email; must complete training by Aug 22 once found |
-| Team Manager | Open — attendance, snacks, extra eyes (new ask, from welcome email) |
-| Referee — 1 more adult slot | Open (welcome email calls it "Referee 2") |
-| Referee — 1 more youth slot (11+) | Open (welcome email calls it "Referee 4") |
+| Assistant Coach | **None this year** (decided 9/3) — nobody stepped up |
+| Team Manager | Likely none — one mom was tentatively interested after P1 but probably won't step up. Coach handles attendance/snacks unless that changes |
+| Referees | **Covered** (9/3): Sam, Christian Esperias (Cortez's dad), Leo Clark-Strom (youth), Zayden's older brother (youth) |
 
 > Numbering note: the welcome email's referee numbers (Referee 1 = Christian,
 > 2 = open, 3 = Leo, 4 = open) don't match `roster.md`'s internal order (Sam =
@@ -96,8 +95,8 @@ still open for a follow-up, ideally before game one per the meeting notes:
 
 | Question | Answer |
 |----------|--------|
-| Assistant coach — training done by Aug 22? | Not yet found — see Volunteers needed above |
+| Assistant coach — training done by Aug 22? | No AC this year (9/3) |
 | Challenger session dates & locations | |
 | First touch clinic dates & locations | |
-| Sportsmanship coin — who awards (coach / ref / team)? | |
+| Sportsmanship coin — who awards (coach / ref / team)? | **Coach.** Sam pre-determines a captain for each game and gives him the coin (decided 9/3). See `sportsmanship-log.md` |
 | Roster | Confirmed, 9 players — see `roster.md` |

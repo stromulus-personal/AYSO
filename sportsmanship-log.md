@@ -4,7 +4,9 @@ Editable working copy of the "Sportsmanship Tracker - 10U Boys" Drive sheet
 (that sheet can't be edited from here — use this file, then transfer
 periodically if needed).
 
-**Coin awarded by:** TBD — see open question in `season-info.md`
+**Coin awarded by:** Coach (decided 9/3). Sam pre-determines the captain for
+each game and that captain gets the coin. Captain = coin, one kid per game,
+so the coverage table below doubles as the captain rotation.
 
 **The rule:** specificity, not scarcity. Every kid gets one over the season.
 Name the actual act, not "great sportsmanship." Bank observations here as
@@ -17,8 +19,8 @@ Roster confirmed (9 players, see `roster.md`). Isaac is the coach's kid —
 watch for overcorrection (skipping him because he's yours) as much as
 undercorrection (favoritism).
 
-| Player | Coin awarded? | Date | Watch for |
-|--------|---------------|------|-----------|
+| Player | Captain / coin? | Game | Watch for |
+|--------|-----------------|------|-----------|
 | Isaac Clark-Strom | ☐ | | Don't let coach's-kid overcorrection skip him |
 | Beckett Davis | ☐ | | |
 | Cortez Esperias | ☐ | | |
@@ -42,8 +44,11 @@ there's always something specific on hand when it's time to award one.
 
 ## Notes
 
-- Coin can come from coach, ref, or whole team — confirm which applies to
-  us and update the line above.
+- Captain-gets-the-coin means 9 games covers all 9 kids once with no
+  repeats — order it so the kids who need the boost early get it early
+  (Daniel, Cortez), and don't leave Isaac for last out of overcorrection.
+- Still name the specific act when handing it over, even though the slot is
+  pre-assigned — pull it from the observation bank.
 - Difficult-kid callout from the meeting: bank his observations early too —
   he's the one most likely to get skipped if you're waiting for a "clean"
   moment.
