@@ -4,11 +4,11 @@ First 4 practices, in the "Ball mastery" block (weeks 1–3, "the ball is my
 friend" — see `notes/2026-08-03-coaches-meeting.md`). Tue/Thu, 6:00–7:30pm,
 Dana Middle School.
 
-**Experience mix (updated after P1, 9/1):** stronger group than expected —
-most experienced fall 10U team I've coached. Anchors: Isaac, Mikey, Grayson,
-Zayden. Solid: Thomas, Beckett, Leon. Weaker for now: Daniel (fitness,
-attention), Cortez (awkward on the ball, but volunteered for goalie). All 9
-showed to P1. See `notes/2026-09-01-practice-1.md`.
+**Experience mix (updated after P2, 9/3):** stronger group than expected —
+most experienced fall 10U team I've coached. Attackers: Isaac, Mikey,
+Grayson, Beckett (P2 revelation — strong shot, real skills). Defenders:
+Leon, Zayden. Need the most support: Cortez, Daniel (goalie / other).
+Thomas TBD (missed P2 sick). See `notes/` for per-practice records.
 
 ## Coaching approach
 
@@ -98,6 +98,11 @@ Drills that have worked across seasons. Reuse freely.
 - **Score and Reset** (arrive-and-play opener) — see coaching approach above.
 - **3-step name rondo** (chest pass → throw-in → kick) — see coaching
   approach above.
+- **Shooting from increasing distances** (P2 audible, big hit) — line up
+  close to goal, everyone shoots, step back a few yards, repeat. Reads as a
+  game ("how far back can we go?"), builds striking technique and
+  confidence. At P2 nearly everyone made almost every shot out to about the
+  goalie-box line. Good 10-min block or a finisher.
 - **Around the World** — one goal at one end, a cone (or pile of cones) at
   the other. Everyone starts on the touchline at midfield, split into
   attackers and defenders. On "around the world!" defenders sprint around
