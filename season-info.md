@@ -98,5 +98,5 @@ still open for a follow-up, ideally before game one per the meeting notes:
 | Assistant coach — training done by Aug 22? | No AC this year (9/3) |
 | Challenger session dates & locations | |
 | First touch clinic dates & locations | |
-| Sportsmanship coin — who awards (coach / ref / team)? | **Coach.** Sam pre-determines a captain for each game and gives him the coin (decided 9/3). See `sportsmanship-log.md` |
+| Sportsmanship coin — who awards (coach / ref / team)? | **Coach.** Coin is merged with captaincy: each game's captain is responsible for the whole team's sportsmanship and gets the coin (decided 9/4). See `sportsmanship-log.md` |
 | Roster | Confirmed, 9 players — see `roster.md` |

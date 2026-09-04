@@ -4,9 +4,12 @@ Editable working copy of the "Sportsmanship Tracker - 10U Boys" Drive sheet
 (that sheet can't be edited from here — use this file, then transfer
 periodically if needed).
 
-**Coin awarded by:** Coach (decided 9/3). Sam pre-determines the captain for
-each game and that captain gets the coin. Captain = coin, one kid per game,
-so the coverage table below doubles as the captain rotation.
+**Coin and captaincy are one thing (decided 9/4).** Each game Sam assigns a
+captain. The captain's job is to encourage good sportsmanship for the whole
+team that game — helping teammates up, cheering others' goals, no
+complaining to the ref, shaking hands after. The captain gets the coin for
+that game. One kid per game, so the coverage table below doubles as the
+captain rotation.
 
 **The rule:** specificity, not scarcity. Every kid gets one over the season.
 Name the actual act, not "great sportsmanship." Bank observations here as
@@ -44,11 +47,13 @@ there's always something specific on hand when it's time to award one.
 
 ## Notes
 
-- Captain-gets-the-coin means 9 games covers all 9 kids once with no
-  repeats — order it so the kids who need the boost early get it early
-  (Daniel, Cortez), and don't leave Isaac for last out of overcorrection.
-- Still name the specific act when handing it over, even though the slot is
-  pre-assigned — pull it from the observation bank.
+- 9 games covers all 9 kids once with no repeats — order it so the kids
+  who need the boost early get it early (Daniel, Cortez), and don't leave
+  Isaac for last out of overcorrection.
+- When handing over the coin, name one specific thing the captain did to
+  lead the team's sportsmanship that game — pull from the observation bank.
+- Tell the captain his job BEFORE the game, in one sentence: "Your job today
+  is to make sure we're the best sports on the field."
 - Difficult-kid callout from the meeting: bank his observations early too —
   he's the one most likely to get skipped if you're waiting for a "clean"
   moment.

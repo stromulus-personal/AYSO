@@ -68,13 +68,13 @@ Keep each one under a minute of talking, then a 30-second demo if you can.
 Spread across the 4 practices below; a light recap at practice 4 before
 game 1.
 
-- **Captain + sportsmanship coin (moved to P2 — didn't get to it at P1):**
-  One kid wears the armband each game, does the coin toss with the ref.
-  It's a helper job, not a boss job. Everyone gets a turn — I pick the
-  captain before each game. The captain also gets the sportsmanship coin
-  that game, and I'll say exactly what he did to earn it. What earns it:
-  getting back up without a fuss, taking a job nobody wants, helping a
-  teammate up, cheering for someone else's goal.
+- **Captain = sportsmanship leader (covered at P2; updated 9/4):** One kid
+  wears the armband each game and does the coin toss with the ref. It's a
+  helper job, not a boss job. The captain's real job is making sure we're
+  the best sports on the field that day — helping teammates up, cheering
+  everyone's goals, no complaining to the ref, handshakes after. Everyone
+  gets a turn; I pick the captain before each game and he gets the coin
+  for that game, and I'll say one specific thing he did to earn it.
 - **Throw-ins:** When the ball goes out over the sideline, the other team
   throws it back in — both feet on the ground, ball comes from behind the
   head, both hands, equal pull.
