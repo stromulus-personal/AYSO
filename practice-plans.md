@@ -208,14 +208,13 @@ for talking to parents at pickup (kids free-play or collect gear).
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle |
+| 6:00–6:05 | Arrive-and-play: Score and Reset (pre-set goal + cone line), then 2-min huddle: captain = sportsmanship leader, one sentence |
 | 6:05–6:10 | **Warm-up routine** (captain-led if they're ready) |
-| 6:10–6:20 | Name rondo (add a defender, or two balls) |
-| 6:20–6:30 | Partner passing — stationary then moving, soft first touch |
+| 6:10–6:15 | Name rondo, 3-step (chest → throw-in → kick), add a defender on the kick round |
+| 6:15–6:30 | Partner passing — stationary then moving, soft first touch. Buddy pairs: Isaac/Cortez, Zayden/Daniel, Beckett/Leon, Mikey/Grayson, Thomas floats with coach. Vets: one-touch back |
 | 6:30–6:35 | **Water + rules chat: Goalkeeper hands** |
 | 6:35–6:50 | **Goalie session** (everyone demanded to be keeper at P1 — ride it). 3 min technique, one cue each: ready position, W hands for high balls, scoop-and-hug for low, body behind the ball. Then rapid-fire saves at BOTH goals: two groups of 4–5, coach throws at one, a veteran (Isaac or Zayden) serves at the other, ~1 min per kid, others retrieve and cheer. Flash water at the end |
-| 6:50–7:10 | Scrimmage — keeper rotates every few minutes so everyone gets a live turn (Cortez and Daniel already went at P1, start with the other 7). Run one goal-kick restart as the build-out line recap. Lightly nudge toward passing |
-| 7:10–7:15 | Fun finisher: **Ball-Touch Freeze Tag** |
+| 6:50–7:15 | Scrimmage (25 min) — keeper rotates every few minutes so everyone gets a live turn (Cortez and Daniel already went at P1, start with the other 7). Run one goal-kick restart as the build-out line recap. Cue of the night: "pass before you shoot" for Mikey/Grayson, "between the ball and our goal" for Leon/Zayden. Ball-Touch Freeze Tag only if it fizzles |
 | 7:15–7:20 | Closing huddle |
 | 7:20–7:30 | Parent huddle as needed / pickup buffer |
 
