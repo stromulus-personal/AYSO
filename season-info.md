@@ -12,19 +12,23 @@ export preserved in `reference/`). Update this file as answers come in.
 | Sat, Aug 22 | **KICK-OFF** | Also deadline for required coach training (HC and AC) |
 | Mon, Aug 24 | Gear & uniform distribution | |
 | Tue, Sep 1 | First practice | 6:00–7:30pm |
-| Fri, Sep 12 | Games begin | Kick-off (Aug 22) is the event; actual games start ~3 weeks later |
+| **Sat, Sep 12** | Games begin — 1:00 PM at Dana MS E vs DeClue | All 9 games are Saturdays. Full schedule + ref duties: `games/schedule.md` |
 | Sun, Sep 20 | Picture Day | |
 | Week of Sep 28 | Coach Meeting | |
 | Sat, Oct 3 | Silent Saturday | |
 | Sat, Nov 14 | Playoffs begin (weeknight games, for some) | Regular season is 9 games; playoffs make 10 total |
 | All October | Pink Socktober | Themed month — likely pink socks / breast cancer awareness |
 
-> Source: photo of a region slide (referee/play admin intro), undated — day-of-week
-> for Sep 12 and exact scope of "some" for playoffs not confirmed.
+> Source: photo of a region slide (referee/play admin intro), undated. Game
+> dates/times now confirmed by the region match schedule export (9/10);
+> scope of "some" for playoffs still unconfirmed.
 
 ## Season format
 
 - 9 regular-season games + playoffs for all = 10 games total
+- Games are Saturdays, Sep 12 – Nov 7, at Dana MS (E) or Foothills MS (E/W)
+- Every game day we also cover a ref slot on the adjacent B10U game — see
+  `games/schedule.md`. Five of nine are "center ref + AR1", i.e. two people
 - Sundays held open for rainout/heat-cancellation makeups
 - Weeknight playoff games for some teams, week of Nov 9
 
