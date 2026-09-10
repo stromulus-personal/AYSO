@@ -24,15 +24,17 @@ undercorrection (favoritism).
 
 | Player | Captain / coin? | Game | Watch for |
 |--------|-----------------|------|-----------|
-| Isaac Clark-Strom | ☐ | | Don't let coach's-kid overcorrection skip him |
-| Beckett Davis | ☐ | | |
-| Cortez Esperias | ☐ | | |
-| Thomas Holman | ☐ | | |
-| Daniel Kong | ☐ | | |
-| Zayden Mercado | ☐ | | |
-| Grayson Nosic | ☐ | | |
-| Michael Nosic | ☐ | | |
-| Leon Pecho | ☐ | | |
+| Grayson Nosic | ☐ | G1 — Sep 12 v DeClue | |
+| Daniel Kong | ☐ | G2 — Sep 19 v Carrillo | Early on purpose — the boost helps |
+| Beckett Davis | ☐ | G3 — Sep 26 v Wang | |
+| Cortez Esperias | ☐ | G4 — Oct 3 v Thomas-Patel | Early on purpose |
+| Isaac Clark-Strom | ☐ | G5 — Oct 10 v Abimannan | Middle of the order, not last — no coach's-kid overcorrection |
+| Leon Pecho | ☐ | G6 — Oct 17 v Newman | |
+| Michael Nosic | ☐ | G7 — Oct 24 v Krausse | Second half on purpose, to split the brothers |
+| Zayden Mercado | ☐ | G8 — Oct 31 v Hoover | |
+| Thomas Holman | ☐ | G9 — Nov 7 v Hernandez | |
+
+Order set 9/10. Playoffs (game 10) are a bonus — pick whoever earned it.
 
 ## Observation bank
 

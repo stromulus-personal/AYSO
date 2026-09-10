@@ -6,17 +6,17 @@ have a referee assignment on the adjacent game at the same field.
 
 ## Our games
 
-| # | Date | Time | Field | Home | Away | Opponent | Result |
-|---|------|------|-------|------|------|----------|--------|
-| 1 | Sat Sep 12 | 1:00 PM | Dana MS - E | 05-DeClue | 18-Strom | **05-DeClue** (away) | |
-| 2 | Sat Sep 19 | 11:00 AM | Dana MS - E | 18-Strom | 03-Carrillo | **03-Carrillo** (home) | |
-| 3 | Sat Sep 26 | 2:30 PM | Foothills MS - E | 22-Wang | 18-Strom | **22-Wang** (away) | |
-| 4 | Sat Oct 3 | 11:00 AM | Dana MS - E | 20-Thomas-Patel | 18-Strom | **20-Thomas-Patel** (away) | |
-| 5 | Sat Oct 10 | 1:00 PM | Dana MS - E | 18-Strom | 01-Abimannan | **01-Abimannan** (home) | |
-| 6 | Sat Oct 17 | 12:00 PM | Dana MS - E | 18-Strom | 16-Newman | **16-Newman** (home) | |
-| 7 | Sat Oct 24 | 2:30 PM | Foothills MS - W | 18-Strom | 14-Krausse | **14-Krausse** (home) | |
-| 8 | Sat Oct 31 | 1:00 PM | Dana MS - E | 12-Hoover | 18-Strom | **12-Hoover** (away) | |
-| 9 | Sat Nov 7 | 1:30 PM | Foothills MS - W | 18-Strom | 10-Hernandez | **10-Hernandez** (home) | |
+| # | Date | Time | Field | Home | Away | Opponent | Captain | Result |
+|---|------|------|-------|------|------|----------|---------|--------|
+| 1 | Sat Sep 12 | 1:00 PM | Dana MS - E | 05-DeClue | 18-Strom | **05-DeClue** (away) | Grayson | |
+| 2 | Sat Sep 19 | 11:00 AM | Dana MS - E | 18-Strom | 03-Carrillo | **03-Carrillo** (home) | Daniel | |
+| 3 | Sat Sep 26 | 2:30 PM | Foothills MS - E | 22-Wang | 18-Strom | **22-Wang** (away) | Beckett | |
+| 4 | Sat Oct 3 | 11:00 AM | Dana MS - E | 20-Thomas-Patel | 18-Strom | **20-Thomas-Patel** (away) | Cortez | |
+| 5 | Sat Oct 10 | 1:00 PM | Dana MS - E | 18-Strom | 01-Abimannan | **01-Abimannan** (home) | Isaac | |
+| 6 | Sat Oct 17 | 12:00 PM | Dana MS - E | 18-Strom | 16-Newman | **16-Newman** (home) | Leon | |
+| 7 | Sat Oct 24 | 2:30 PM | Foothills MS - W | 18-Strom | 14-Krausse | **14-Krausse** (home) | Mikey | |
+| 8 | Sat Oct 31 | 1:00 PM | Dana MS - E | 12-Hoover | 18-Strom | **12-Hoover** (away) | Zayden | |
+| 9 | Sat Nov 7 | 1:30 PM | Foothills MS - W | 18-Strom | 10-Hernandez | **10-Hernandez** (home) | Thomas | |
 
 ## Our referee assignments
 
