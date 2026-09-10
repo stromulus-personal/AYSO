@@ -48,6 +48,8 @@ Daniel. TBD: Thomas.
   One of the two weaker links for now
 - Took a turn in goal at P1 (everyone wanted it)
 - Goalie / other — needs the most support (P2)
+- P3: struggled in the drills but active on offense in the live scrimmage —
+  the game switches him on more than practice does
 
 ## Zayden Mercado
 
@@ -57,6 +59,7 @@ Daniel. TBD: Thomas.
 - P1: big and fast for the age class, strong and aggressive winning the
   ball. Center back candidate, can also play up. Anchor talent
 - Primary defender (P2)
+- Always late — start him on the bench
 
 ## Grayson Nosic
 
@@ -80,4 +83,5 @@ Daniel. TBD: Thomas.
 - Plays baseball
 - P1: seems fine, need to watch him more
 - Primary defender (P2)
+- P3: very steady and coachable
 
