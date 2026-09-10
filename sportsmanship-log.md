@@ -22,17 +22,17 @@ Roster confirmed (9 players, see `roster.md`). Isaac is the coach's kid —
 watch for overcorrection (skipping him because he's yours) as much as
 undercorrection (favoritism).
 
-| Player | Captain / coin? | Game | Watch for |
-|--------|-----------------|------|-----------|
-| Grayson Nosic | ☐ | G1 — Sep 12 v DeClue | |
-| Daniel Kong | ☐ | G2 — Sep 19 v Carrillo | Early on purpose — the boost helps |
-| Beckett Davis | ☐ | G3 — Sep 26 v Wang | |
-| Cortez Esperias | ☐ | G4 — Oct 3 v Thomas-Patel | Early on purpose |
-| Isaac Clark-Strom | ☐ | G5 — Oct 10 v Abimannan | Middle of the order, not last — no coach's-kid overcorrection |
-| Leon Pecho | ☐ | G6 — Oct 17 v Newman | |
-| Michael Nosic | ☐ | G7 — Oct 24 v Krausse | Second half on purpose, to split the brothers |
-| Zayden Mercado | ☐ | G8 — Oct 31 v Hoover | |
-| Thomas Holman | ☐ | G9 — Nov 7 v Hernandez | |
+| Player | Captain / coin? | Game | Date | Time | Field | H/A | Opponent | Watch for |
+|--------|-----------------|------|------|------|-------|-----|----------|-----------|
+| Grayson Nosic | ☐ | 1 | Sat Sep 12 | 1:00 PM | Dana MS - E | Away | DeClue | |
+| Daniel Kong | ☐ | 2 | Sat Sep 19 | 11:00 AM | Dana MS - E | Home | Carrillo | Early on purpose — the boost helps |
+| Beckett Davis | ☐ | 3 | Sat Sep 26 | 2:30 PM | Foothills MS - E | Away | Wang | |
+| Cortez Esperias | ☐ | 4 | Sat Oct 3 | 11:00 AM | Dana MS - E | Away | Thomas-Patel | Early on purpose |
+| Isaac Clark-Strom | ☐ | 5 | Sat Oct 10 | 1:00 PM | Dana MS - E | Home | Abimannan | Middle of the order, not last — no coach's-kid overcorrection |
+| Leon Pecho | ☐ | 6 | Sat Oct 17 | 12:00 PM | Dana MS - E | Home | Newman | |
+| Michael Nosic | ☐ | 7 | Sat Oct 24 | 2:30 PM | Foothills MS - W | Home | Krausse | Second half on purpose, to split the brothers |
+| Zayden Mercado | ☐ | 8 | Sat Oct 31 | 1:00 PM | Dana MS - E | Away | Hoover | |
+| Thomas Holman | ☐ | 9 | Sat Nov 7 | 1:30 PM | Foothills MS - W | Home | Hernandez | |
 
 Order set 9/10. Playoffs (game 10) are a bonus — pick whoever earned it.
 
