@@ -16,25 +16,28 @@ Name the actual act, not "great sportsmanship." Bank observations here as
 soon as you see something — don't wait for a game day, and don't wait until
 it's "his turn."
 
-## Coverage — has each kid gotten a coin yet?
+## Coverage — captain / coin rotation
 
-Roster confirmed (9 players, see `roster.md`). Isaac is the coach's kid —
-watch for overcorrection (skipping him because he's yours) as much as
+The master table (dates, fields, ref duty, results) is `games/schedule.md`.
+This is just the coin checklist. Isaac is the coach's kid — watch for
+overcorrection (skipping him because he's yours) as much as
 undercorrection (favoritism).
 
-| Player | Captain / coin? | Game | Date | Time | Field | H/A | Opponent | Ref duty (same field) | Refs assigned | Watch for |
-|--------|-----------------|------|------|------|-------|-----|----------|-----------------------|---------------|-----------|
-| Grayson Nosic | ☐ | 1 | Sat Sep 12 | 1:00 PM | Dana MS - E | Away | DeClue | 2:00 PM · AR | |  |
-| Daniel Kong | ☐ | 2 | Sat Sep 19 | 11:00 AM | Dana MS - E | Home | Carrillo | 12:00 PM · Center + AR1 | | Early on purpose — the boost helps |
-| Beckett Davis | ☐ | 3 | Sat Sep 26 | 2:30 PM | Foothills MS - E | Away | Wang | 1:30 PM · AR (before our game) | |  |
-| Cortez Esperias | ☐ | 4 | Sat Oct 3 | 11:00 AM | Dana MS - E | Away | Thomas-Patel | 12:00 PM · AR | | Early on purpose |
-| Isaac Clark-Strom | ☐ | 5 | Sat Oct 10 | 1:00 PM | Dana MS - E | Home | Abimannan | 2:00 PM · Center + AR1 | | Middle of the order, not last — no coach's-kid overcorrection |
-| Leon Pecho | ☐ | 6 | Sat Oct 17 | 12:00 PM | Dana MS - E | Home | Newman | 1:00 PM · Center + AR1 | |  |
-| Michael Nosic | ☐ | 7 | Sat Oct 24 | 2:30 PM | Foothills MS - W | Home | Krausse | 1:30 PM · Center + AR1 (before our game) | | Second half on purpose, to split the brothers |
-| Zayden Mercado | ☐ | 8 | Sat Oct 31 | 1:00 PM | Dana MS - E | Away | Hoover | 2:00 PM · AR | |  |
-| Thomas Holman | ☐ | 9 | Sat Nov 7 | 1:30 PM | Foothills MS - W | Home | Hernandez | 2:30 PM · Center + AR1 | |  |
+| Player | Game | Coin given? | What he did (specific) |
+|--------|------|-------------|------------------------|
+| Grayson Nosic | 1 — Sep 12 v DeClue | ☐ | |
+| Daniel Kong | 2 — Sep 19 v Carrillo | ☐ | |
+| Beckett Davis | 3 — Sep 26 v Wang | ☐ | |
+| Cortez Esperias | 4 — Oct 3 v Thomas-Patel | ☐ | |
+| Isaac Clark-Strom | 5 — Oct 10 v Abimannan | ☐ | |
+| Leon Pecho | 6 — Oct 17 v Newman | ☐ | |
+| Michael Nosic | 7 — Oct 24 v Krausse | ☐ | |
+| Zayden Mercado | 8 — Oct 31 v Hoover | ☐ | |
+| Thomas Holman | 9 — Nov 7 v Hernandez | ☐ | |
 
-Order set 9/10. Playoffs (game 10) are a bonus — pick whoever earned it.
+Order set 9/10: Daniel and Cortez early on purpose, Isaac mid-order (not
+last), Mikey in the second half to split the brothers. Playoffs (game 10)
+are a bonus — pick whoever earned it.
 
 ## Observation bank
 

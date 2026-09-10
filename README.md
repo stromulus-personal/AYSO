@@ -14,8 +14,9 @@ Coaching notes and season materials for the 10U boys team.
 - `player-notes.md` — coaching notes per kid: athletic ability, temperament,
   what seems to help. Sensitive — keep private.
 - `practice-plans.md` — session-by-session practice plans.
-- `games/` — `schedule.md` (all games + our ref assignments), then one file
-  per game: lineup/rotation, then result and notes after.
+- `games/` — `schedule.md` is the **master game table** (date, field,
+  opponent, captain, ref duty, refs assigned, result), then one file per
+  game: lineup/rotation, then result and notes after.
 - `notes/` — meeting notes and running records, one file per date
   (`YYYY-MM-DD-topic.md`). Dated snapshots — they don't get updated later.
 - `reference/` — original files (Drive exports, handouts) kept as-is.
