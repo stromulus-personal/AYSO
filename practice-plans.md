@@ -222,13 +222,13 @@ for talking to parents at pickup (kids free-play or collect gear).
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle + game-day logistics reminder |
-| 6:05–6:10 | **Warm-up routine** (captain-led — this is also the pre-game warm-up, so it's rehearsal) |
-| 6:10–6:20 | Name rondo |
-| 6:20–6:30 | "Game stuff" circuit — everyone takes one throw-in, everyone stands behind the build-out line once, one kickoff, one goal kick with keeper roll-out. Live reps, not talk |
-| 6:30–6:35 | **Water + rules chat: Offside, light version** + 2-min shape intro: back group, middle group, front group, everyone rotates. Nothing deeper — shape is the weeks 10–12 block |
-| 6:35–7:00 | Mini scrimmage tournament — 2–3 small teams, rotating short games (mimics game pacing). Option: open with 10 min of **Around the World** as the first defending lesson before game 1 |
-| 7:00–7:05 | **Water + full rules recap** — captain, throw-ins, build-out line, keeper hands, offside, in one quick pass |
-| 7:05–7:15 | Extended scrimmage / free play |
-| 7:15–7:20 | Closing huddle — hype for game 1 |
-| 7:20–7:30 | **Parent huddle — game 1 logistics:** where, when to arrive, uniforms, snack plan, technical-areas rule |
+| 6:00–6:05 | Arrive-and-play: Score and Reset (pre-set goal + cone line), then 2-min huddle: game 1 is tomorrow, 1:00 at Dana East, arrive 12:30. Grayson is captain — announce it, one-sentence job description |
+| 6:05–6:10 | **Warm-up routine** — Grayson leads it, this is the pre-game warm-up rehearsal |
+| 6:10–6:15 | Name rondo, 3-step (chest → throw-in → kick) |
+| 6:15–6:25 | "Game stuff" circuit — everyone takes one throw-in, everyone retreats behind the build-out line once, one kickoff, one goal kick with keeper roll-out. Live reps, not talk |
+| 6:25–6:30 | **Water + rules chat: Offside, light version** + 1-min shape walk: back three, one in the middle, two up front — the 3-1-2 we'll use tomorrow |
+| 6:30–6:40 | **Around the World** — 3v2 and 4v3, attackers outnumber, first taste of passing vs. spacing. Zayden and Leon on the defending side to start |
+| 6:40–6:45 | **Water + full rules recap** — captain, throw-ins, build-out line, keeper hands, offside, one quick pass |
+| 6:45–7:15 | Scrimmage (30 min) — run tomorrow's Q1 lineup for the first stretch so they've seen it: Isaac GK, Leon CB, Thomas LB, Cortez RB, Grayson CM, Mikey + Beckett up front, Zayden + Daniel on the other side with whoever rotates. Then mix freely. Rotate keepers |
+| 7:15–7:20 | Closing huddle — hype for game 1, Grayson's captain brief again, "best sports on the field" |
+| 7:20–7:30 | **Parent huddle — game 1 logistics:** 1:00 PM Dana MS East, away side, arrive 12:30, jerseys, snack plan, technical-areas rule (parents stay off the team side), we ref the 2:00 game after so we're there till 3 |
