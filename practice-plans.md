@@ -4,15 +4,21 @@ First 4 practices, in the "Ball mastery" block (weeks 1–3, "the ball is my
 friend" — see `notes/2026-08-03-coaches-meeting.md`). Tue/Thu, 6:00–7:30pm,
 Dana Middle School.
 
-**Experience mix:** Isaac, Daniel, Zayden have a year in. Leon and Beckett
-are totally new to soccer. Cortez, Thomas, Grayson, Michael — unconfirmed,
-treat as possible beginners until seen.
+**Experience mix (updated after P2, 9/3):** stronger group than expected —
+most experienced fall 10U team I've coached. Attackers: Isaac, Mikey,
+Grayson, Beckett (P2 revelation — strong shot, real skills). Defenders:
+Leon, Zayden. Need the most support: Cortez, Daniel (goalie / other).
+Thomas TBD (missed P2 sick). See `notes/` for per-practice records.
 
 ## Coaching approach
 
-- **Arrive-and-play:** kids grab a ball and play the moment they show up
-  (free dribble, juggle attempts, shots at an open goal) — no waiting for
-  the huddle. Arrivals straggle; nobody stands around. Huddle happens once
+- **Arrive-and-play — "Score and Reset" (worked at P1, standing setup):**
+  one goal at the far end, a line of cones at the near end. Kids grab a
+  ball and shoot as soon as they show up. Only rule: after you score, you
+  dribble the ball back to the cone line before you can shoot again. No
+  waiting for the huddle, nobody stands around, and the dribble-back is
+  fun cardio without calling it that. Set the goal and cone line before
+  the first kid arrives. Arrivals straggle; nobody stands around. Huddle happens once
   most are there, and stays short.
 - **Talk-time cap:** an 8-year-old's listening span is roughly their age in
   minutes. Every huddle and instruction block ≤ 3 minutes; rules chats ≤ 1
@@ -21,9 +27,12 @@ treat as possible beginners until seen.
 - Same activity for everyone; beginners get space and forgiving rules,
   veterans get tighter cones/quicker pressure — don't split into groups
 - Name rondo the first two practices (learn 9 names fast, ball-touch built
-  in). **Round one with hands** (throw-and-catch while calling names), then
-  switch to feet — a feet-first rondo fails for total beginners and turns
-  the welcome game into a frustration game.
+  in). **Three-step version (worked at P1, keep it as a standing warm-up):**
+  1. Basketball chest passes, calling the name
+  2. Soccer throws — throw-in form, both feet down, ball behind the head
+  3. Kicked passes
+  Hands-first keeps beginners in it, and step 2 sneaks in throw-in reps
+  every time without a separate throw-in block.
 - **Buddy pairs:** Isaac, Daniel, and Zayden each get a newer buddy for
   partner drills and demos. Gives beginners a peer model, gives Zayden a
   "teach it" role (engagement hook), and advances the make-friends mission.
@@ -42,6 +51,16 @@ treat as possible beginners until seen.
 - **Scrimmage minimum (owner rule, 2026-09-01):** a scrimmage under 15
   minutes isn't worth doing — schedule 15+ or skip it. Practice 1 (throw-in
   block instead) is the sanctioned exception.
+- **P1 lesson:** the scrimmage ran to the end of practice and the group
+  handled it. With this much talent, err toward longer scrimmage and drop
+  the finisher if the game is going well — the game IS the finisher.
+- **Goalie enthusiasm:** basically every kid demanded to be keeper in the
+  P1 scrimmage (classic pre-game-one energy). Cortez and Daniel got turns.
+  Dedicated goalie session at P3; keep rotating everyone through in
+  scrimmages so nobody's stuck waiting for "his turn".
+- **Mikey/Grayson:** channel the energy — give them the "find a friend"
+  nudge early (a pass before a shot) rather than waiting for the weeks 7–9
+  block.
 
 ## Rules chats — what to actually say
 
@@ -49,8 +68,13 @@ Keep each one under a minute of talking, then a 30-second demo if you can.
 Spread across the 4 practices below; a light recap at practice 4 before
 game 1.
 
-- **Captain:** One kid wears the armband, does the coin toss with the ref.
-  It's a helper job, not a boss job. We rotate it so everyone gets a turn.
+- **Captain = sportsmanship leader (covered at P2; updated 9/4):** One kid
+  wears the armband each game and does the coin toss with the ref. It's a
+  helper job, not a boss job. The captain's real job is making sure we're
+  the best sports on the field that day — helping teammates up, cheering
+  everyone's goals, no complaining to the ref, handshakes after. Everyone
+  gets a turn; I pick the captain before each game and he gets the coin
+  for that game, and I'll say one specific thing he did to earn it.
 - **Throw-ins:** When the ball goes out over the sideline, the other team
   throws it back in — both feet on the ground, ball comes from behind the
   head, both hands, equal pull.
@@ -66,6 +90,32 @@ game 1.
   line, not midfield. Simple version for now: don't stand goal-side of the
   build-out line waiting for a pass with no defender near you. Save the
   full explanation for later — this is the one that takes repetition.
+
+## Coach Sam classics
+
+Drills that have worked across seasons. Reuse freely.
+
+- **Score and Reset** (arrive-and-play opener) — see coaching approach above.
+- **3-step name rondo** (chest pass → throw-in → kick) — see coaching
+  approach above.
+- **Shooting from increasing distances** (P2 audible, big hit) — line up
+  close to goal, everyone shoots, step back a few yards, repeat. Reads as a
+  game ("how far back can we go?"), builds striking technique and
+  confidence. At P2 nearly everyone made almost every shot out to about the
+  goalie-box line. Good 10-min block or a finisher.
+- **Around the World** — one goal at one end, a cone (or pile of cones) at
+  the other. Everyone starts on the touchline at midfield, split into
+  attackers and defenders. On "around the world!" defenders sprint around
+  the goal and attackers sprint around the cones; coach tosses the ball in
+  toward the attackers and they try to score. Quick, high-energy, and the
+  numbers can be uneven on purpose (3v2, 4v3, 2v1).
+  - Early season the defense wins most of these because attackers don't
+    pass or spread out yet — that's the teaching hook: passing, spacing,
+    defensive positioning, communication.
+  - Vary the numbers to make a point: outnumber the defense to reward
+    passing, outnumber the attack to force defenders to talk.
+  - Natural centerpiece of the weeks 7–9 "finding a friend" block; can
+    slot into any scrimmage-heavy practice before then as a 10-min block.
 
 ## Fun cardio (not laps)
 
@@ -88,6 +138,10 @@ these.
 - **World Cup Dribble Knockout:** Everyone dribbles in a grid, tries to
   knock others' balls out while guarding their own. Knocked-out kids do 5
   toe taps on the sideline, then jump back in — no standing around waiting.
+- **Score and Reset:** the arrive-and-play setup (goal far end, cone line
+  near end, score then dribble back to the line before shooting again).
+  Already cardio; can also run as a finisher with a shot clock or a
+  team goal count.
 - **Team Shuttle Challenge:** Small teams, shuttle-relay format, but each
   leg is a different silly locomotion (bear crawl out, backpedal back,
   side-shuffle) instead of straight running. Same conditioning as laps,
@@ -138,31 +192,29 @@ for talking to parents at pickup (kids free-play or collect gear).
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle |
-| 6:05–6:10 | **Warm-up routine** |
-| 6:10–6:20 | Name rondo (progression: call the name you're passing AWAY from) |
+| 6:00–6:05 | Arrive-and-play: Score and Reset (goal far end, cone line near end, pre-set). **Jerseys:** bag on the sideline, don't hand out yet — kids will get distracted trying them on |
+| 6:05–6:10 | **Opening huddle: Sportsmanship + captain** (3 min talk max). Captain rotates, I pick him each game, captain gets the coin, name what earns it. Point at Tuesday: Beckett getting back up, Cortez taking goalie |
+| 6:10–6:15 | **Warm-up routine** |
+| 6:15–6:20 | Name rondo, 3-step (chest pass → throw-in → kick). Progression: call the name you're passing AWAY from |
 | 6:20–6:30 | Ball mastery: same moves + stop/turn/pull-back |
 | 6:30–6:35 | **Water + rules chat: Build-out line, part 1** — what it is, why we have it |
-| 6:35–6:45 | Dribble tag / traffic jam (moving through traffic without losing the ball) |
+| 6:35–6:45 | **Traffic Jam → Dribble Tag.** 5 min Traffic Jam: everyone dribbling in a tight grid (~15x15), coach calls stop / turn / speed up / switch feet; bump or lose the ball = 3 toe taps and back in. Then 5 min Dribble Tag: same grid, 1–2 taggers (start with Zayden + a Nosic) tag by touching your ball with a foot; tagged kids become taggers. Nobody sits out |
 | 6:45–6:50 | **Water break** (no new topic, let part 1 sink in) |
-| 6:50–7:10 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live |
-| 7:10–7:15 | Fun finisher: **Color/Number Sprint** (cones are already out from ball mastery) |
-| 7:15–7:20 | Closing huddle |
-| 7:20–7:30 | Parent huddle as needed / pickup buffer |
+| 6:50–7:15 | Scrimmage — actually set up the build-out line and run one goal-kick restart so they see it live. Put Cortez in goal for a stretch so the restart has a real keeper. One defending cue only: "get between the ball and our goal" — say it once at the restart, then call it out when someone does it (Zayden). Extended to 25 min after P1 showed the group can handle it |
+| 7:15–7:20 | Closing huddle (Color/Number Sprint dropped — swap back in only if the scrimmage fizzles) |
+| 7:20–7:30 | **Parent huddle: jersey distribution.** Hand out with parents present so sizing gets sorted on the spot. Note each kid's number in `roster.md`. Quick volunteer update: refs covered, no AC, still open to a team parent |
 
 ## Practice 3 — Tue Sep 8 — "First touch, first pass"
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle |
+| 6:00–6:05 | Arrive-and-play: Score and Reset (pre-set goal + cone line), then 2-min huddle: captain = sportsmanship leader, one sentence |
 | 6:05–6:10 | **Warm-up routine** (captain-led if they're ready) |
-| 6:10–6:20 | Name rondo (add a defender, or two balls) |
-| 6:20–6:30 | Partner passing — stationary then moving, soft first touch |
+| 6:10–6:15 | Name rondo, 3-step (chest → throw-in → kick), add a defender on the kick round |
+| 6:15–6:30 | Partner passing — stationary then moving, soft first touch. Buddy pairs: Isaac/Cortez, Zayden/Daniel, Beckett/Leon, Mikey/Grayson, Thomas floats with coach. Vets: one-touch back |
 | 6:30–6:35 | **Water + rules chat: Goalkeeper hands** |
-| 6:35–6:45 | Dribble-and-pass grid game |
-| 6:45–6:50 | **Water + rules chat: Build-out line recap** (quick — did it stick from Practice 2?) |
-| 6:50–7:10 | Scrimmage — lightly nudge toward passing, keeper rotates through so everyone feels the hands rule |
-| 7:10–7:15 | Fun finisher: **Ball-Touch Freeze Tag** |
+| 6:35–6:50 | **Goalie session** (everyone demanded to be keeper at P1 — ride it). 3 min technique, one cue each: ready position, W hands for high balls, scoop-and-hug for low, body behind the ball. Then rapid-fire saves at BOTH goals: two groups of 4–5, coach throws at one, a veteran (Isaac or Zayden) serves at the other, ~1 min per kid, others retrieve and cheer. Flash water at the end |
+| 6:50–7:15 | Scrimmage (25 min) — keeper rotates every few minutes so everyone gets a live turn (Cortez and Daniel already went at P1, start with the other 7). Run one goal-kick restart as the build-out line recap. Cue of the night: "pass before you shoot" for Mikey/Grayson, "between the ball and our goal" for Leon/Zayden. Ball-Touch Freeze Tag only if it fizzles |
 | 7:15–7:20 | Closing huddle |
 | 7:20–7:30 | Parent huddle as needed / pickup buffer |
 
@@ -170,13 +222,13 @@ for talking to parents at pickup (kids free-play or collect gear).
 
 | Time | Activity |
 |------|----------|
-| 6:00–6:05 | Arrive-and-play (ball each), then 2-min huddle + game-day logistics reminder |
-| 6:05–6:10 | **Warm-up routine** (captain-led — this is also the pre-game warm-up, so it's rehearsal) |
-| 6:10–6:20 | Name rondo |
-| 6:20–6:30 | "Game stuff" circuit — everyone takes one throw-in, everyone stands behind the build-out line once, one kickoff, one goal kick with keeper roll-out. Live reps, not talk |
-| 6:30–6:35 | **Water + rules chat: Offside, light version** + 2-min shape intro: back group, middle group, front group, everyone rotates. Nothing deeper — shape is the weeks 10–12 block |
-| 6:35–7:00 | Mini scrimmage tournament — 2–3 small teams, rotating short games (mimics game pacing) |
-| 7:00–7:05 | **Water + full rules recap** — captain, throw-ins, build-out line, keeper hands, offside, in one quick pass |
-| 7:05–7:15 | Extended scrimmage / free play |
-| 7:15–7:20 | Closing huddle — hype for game 1 |
-| 7:20–7:30 | **Parent huddle — game 1 logistics:** where, when to arrive, uniforms, snack plan, technical-areas rule |
+| 6:00–6:05 | Arrive-and-play: Score and Reset (pre-set goal + cone line), then 2-min huddle: game 1 is tomorrow, 1:00 at Dana East, arrive 12:30. Grayson is captain — announce it, one-sentence job description |
+| 6:05–6:10 | **Warm-up routine** — Grayson leads it, this is the pre-game warm-up rehearsal |
+| 6:10–6:15 | Name rondo, 3-step (chest → throw-in → kick) |
+| 6:15–6:25 | "Game stuff" circuit — everyone takes one throw-in, everyone retreats behind the build-out line once, one kickoff, one goal kick with keeper roll-out. Live reps, not talk |
+| 6:25–6:30 | **Water + rules chat: Offside, light version** + 1-min shape walk: back three, one in the middle, two up front — the 3-1-2 we'll use tomorrow |
+| 6:30–6:40 | **Around the World** — 3v2 and 4v3, attackers outnumber, first taste of passing vs. spacing. Zayden and Leon on the defending side to start |
+| 6:40–6:45 | **Water + full rules recap** — captain, throw-ins, build-out line, keeper hands, offside, one quick pass |
+| 6:45–7:15 | Scrimmage (30 min) — run tomorrow's Q1 lineup for the first stretch so they've seen it: Isaac GK, Leon CB, Thomas LB, Cortez RB, Grayson CM, Mikey + Beckett up front, Zayden + Daniel on the other side with whoever rotates. Then mix freely. Rotate keepers |
+| 7:15–7:20 | Closing huddle — hype for game 1, Grayson's captain brief again, "best sports on the field" |
+| 7:20–7:30 | **Parent huddle — game 1 logistics:** 1:00 PM Dana MS East, away side, arrive 12:30, jerseys, snack plan, technical-areas rule (parents stay off the team side), we ref the 2:00 game after so we're there till 3 |

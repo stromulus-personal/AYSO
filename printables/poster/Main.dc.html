@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Nunito:wght@600;800&display=swap">
+  <style>
+    body { margin: 0; font-family: 'Nunito', 'Trebuchet MS', sans-serif; }
+    a { color: #b3202e; } a:hover { color: #7f1520; }
+    .leaf { position: absolute; animation: drift 9s ease-in-out infinite; }
+    @keyframes drift { 0%{transform:translateY(0) rotate(0deg)} 50%{transform:translateY(14px) rotate(12deg)} 100%{transform:translateY(0) rotate(0deg)} }
+  </style>
+</helmet>
+<div style="position: relative; width: 816px; height: 1056px; overflow: hidden; background: linear-gradient(180deg, #7cc4ea 0%, #f7d774 34%, #f28c38 62%, #b34a1f 100%); color: #2b1a12;">
+
+  <!-- sun -->
+  <div style="position: absolute; top: 40px; right: 60px; width: 140px; height: 140px; border-radius: 50%; background: #fff2b0; box-shadow: 0 0 0 18px rgba(255,242,176,0.35), 0 0 0 40px rgba(255,242,176,0.15);"></div>
+
+  <!-- falling leaves -->
+  <svg class="leaf" style="top: 250px; left: 60px; animation-delay: 0s;" width="46" height="46" viewBox="0 0 24 24" fill="#c2410c"><path d="M12 2c4 3 7 7 7 12 0 3-2 6-7 8-5-2-7-5-7-8 0-5 3-9 7-12z"/><path d="M12 6v14" stroke="#7c2d12" stroke-width="1.2"/></svg>
+  <svg class="leaf" style="top: 330px; left: 700px; animation-delay: 1.5s;" width="38" height="38" viewBox="0 0 24 24" fill="#a16207"><path d="M12 2c4 3 7 7 7 12 0 3-2 6-7 8-5-2-7-5-7-8 0-5 3-9 7-12z"/><path d="M12 6v14" stroke="#713f12" stroke-width="1.2"/></svg>
+  <svg class="leaf" style="top: 560px; left: 30px; animation-delay: 3s;" width="34" height="34" viewBox="0 0 24 24" fill="#dc2626"><path d="M12 2c4 3 7 7 7 12 0 3-2 6-7 8-5-2-7-5-7-8 0-5 3-9 7-12z"/><path d="M12 6v14" stroke="#7f1d1d" stroke-width="1.2"/></svg>
+  <svg class="leaf" style="top: 720px; left: 740px; animation-delay: 4.5s;" width="42" height="42" viewBox="0 0 24 24" fill="#ea580c"><path d="M12 2c4 3 7 7 7 12 0 3-2 6-7 8-5-2-7-5-7-8 0-5 3-9 7-12z"/><path d="M12 6v14" stroke="#7c2d12" stroke-width="1.2"/></svg>
+
+  <!-- candy-cane stripe rail down the left -->
+  <div style="position: absolute; top: 0; left: 0; width: 34px; height: 1056px; background: repeating-linear-gradient(135deg, #d62839 0 22px, #ffffff 22px 44px);"></div>
+
+  <!-- header block -->
+  <div style="position: absolute; top: 56px; left: 80px; width: 560px; display: flex; flex-direction: column; gap: 4px;">
+    <div style="font-family: 'Nunito', sans-serif; font-weight: 800; font-size: 20px; letter-spacing: 4px; text-transform: uppercase; color: #7f1520;">AYSO Region 2 · 10U Boys · Fall 2026</div>
+    <div style="font-family: 'Luckiest Guy', 'Impact', sans-serif; font-size: 96px; line-height: 0.94; color: #ffffff; text-shadow: 5px 5px 0 #b3202e, 9px 9px 0 rgba(43,26,18,0.25);">THE CANDY CANES</div>
+    <div style="font-family: 'Luckiest Guy', 'Impact', sans-serif; font-size: 30px; color: #7f1520; letter-spacing: 2px;">Summer's over. Fall is ours.</div>
+  </div>
+
+  <!-- soccer ball -->
+  <svg style="position: absolute; top: 215px; right: 50px;" width="150" height="150" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" r="47" fill="#ffffff" stroke="#2b1a12" stroke-width="3"/>
+    <polygon points="50,28 62,37 57,51 43,51 38,37" fill="#2b1a12"/>
+    <polygon points="24,42 36,38 40,50 30,58 20,52" fill="#2b1a12"/>
+    <polygon points="76,42 64,38 60,50 70,58 80,52" fill="#2b1a12"/>
+    <polygon points="34,66 44,60 56,60 66,66 60,78 40,78" fill="#2b1a12"/>
+    <polygon points="42,8 58,8 62,20 50,26 38,20" fill="#2b1a12"/>
+    <path d="M50 28 L50 8 M62 37 L76 42 M38 37 L24 42 M57 51 L56 60 M43 51 L44 60" stroke="#2b1a12" stroke-width="2.5" fill="none"/>
+  </svg>
+
+  <!-- schedule card -->
+  <div style="position: absolute; top: 420px; left: 80px; width: 640px; background: rgba(255,250,240,0.94); border: 4px solid #2b1a12; border-radius: 6px; padding: 24px 28px 20px; display: flex; flex-direction: column; gap: 10px; box-shadow: 8px 8px 0 #7f1520;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <div style="font-family: 'Luckiest Guy', 'Impact', sans-serif; font-size: 40px; color: #b3202e; letter-spacing: 1px;">GAME DAYS</div>
+      <div style="font-weight: 800; font-size: 16px; color: #7f1520; text-transform: uppercase; letter-spacing: 2px;">Saturdays · Sep 12 – Nov 7</div>
+    </div>
+    <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px 18px; font-weight: 600;">
+      <div style="display: flex; flex-direction: column; gap: 2px; border-top: 3px solid #d62839; padding-top: 6px;"><div style="font-weight: 800; font-size: 20px;">Sep 12 · 1:00</div><div style="font-size: 16px;">vs DeClue</div><div style="font-size: 15px; color: #5b3a2a;">Dana MS</div></div>
+      <div style="display: flex; flex-direction: column; gap: 2px; border-top: 3px solid #d62839; padding-top: 6px;"><div style="font-weight: 800; font-size: 20px;">Sep 19 · 11:00</div><div style="font-size: 16px;">vs Carrillo</div><div style="font-size: 15px; color: #5b3a2a;">Dana MS</div></div>
+      <div style="display: flex; flex-direction: column; gap: 2px; border-top: 3px solid #d62839; padding-top: 6px;"><div style="font-weight: 800; font-size: 20px;">Sep 26 · 2:30</div><div style="font-size: 16px;">vs Wang</div><div style="font-size: 15px; color: #5b3a2a;">Foothills MS</div></div>
+      <div style="display: flex; flex-direction: column; gap: 2px; border-top: 3px solid #d62839; padding-top: 6px;"><div style="font-weight: 800; font-size: 20px;">Oct 3 · 11:00</div><div style="font-size: 16px;">vs Thomas-Patel</div><div style="font-size: 15px; color: #5b3a2a;">Dana MS</div></div>
+      <div style="display: flex; flex-direction: column; gap: 2px; border-top: 3px solid #d62839; padding-top: 6px;"><div style="font-weight: 800; font-size: 20px;">Oct 10 · 1:00</div><div style="font-size: 16px;">vs Abimannan</div><div style="font-size: 15px; color: #5b3a2a;">Dana MS</div></div>
+      <div style="display: flex; flex-direction: column; gap: 2px; border-top: 3px solid #d62839; padding-top: 6px;"><div style="font-weight: 800; font-size: 20px;">Oct 17 · 12:00</div><div style="font-size: 16px;">vs Newman</div><div style="font-size: 15px; color: #5b3a2a;">Dana MS</div></div>
+      <div style="display: flex; flex-direction: column; gap: 2px; border-top: 3px solid #d62839; padding-top: 6px;"><div style="font-weight: 800; font-size: 20px;">Oct 24 · 2:30</div><div style="font-size: 16px;">vs Krausse</div><div style="font-size: 15px; color: #5b3a2a;">Foothills MS</div></div>
+      <div style="display: flex; flex-direction: column; gap: 2px; border-top: 3px solid #d62839; padding-top: 6px;"><div style="font-weight: 800; font-size: 20px;">Oct 31 · 1:00</div><div style="font-size: 16px;">vs Hoover</div><div style="font-size: 15px; color: #5b3a2a;">Dana MS</div></div>
+      <div style="display: flex; flex-direction: column; gap: 2px; border-top: 3px solid #d62839; padding-top: 6px;"><div style="font-weight: 800; font-size: 20px;">Nov 7 · 1:30</div><div style="font-size: 16px;">vs Hernandez</div><div style="font-size: 15px; color: #5b3a2a;">Foothills MS</div></div>
+    </div>
+    <div style="font-size: 16px; font-weight: 600; color: #5b3a2a; margin-top: 4px;">Playoffs start the week of Nov 9. Practices Tue &amp; Thu, 6:00–7:30, Dana MS.</div>
+  </div>
+
+  <!-- footer band -->
+  <div style="position: absolute; bottom: 0; left: 34px; right: 0; height: 74px; background: #2b1a12; display: flex; align-items: center; justify-content: space-between; padding: 0 40px; color: #fff2b0;">
+    <div style="font-family: 'Luckiest Guy', 'Impact', sans-serif; font-size: 22px; letter-spacing: 1px;">HAVE FUN · GREAT TEAMMATES · GET BETTER</div>
+    <div style="font-weight: 800; font-size: 14px; letter-spacing: 1px; text-transform: uppercase;">TeamReach: teamwork110</div>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>
