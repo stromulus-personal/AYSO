@@ -15,7 +15,8 @@ Coaching notes and season materials for the 10U boys team.
   what seems to help. Sensitive — keep private.
 - `practice-plans.md` — session-by-session practice plans.
 - `games/` — `schedule.md` is the **master game table** (date, field,
-  opponent, captain, ref duty, refs assigned, result), then one file per
+  opponent, captain, ref duty, refs assigned, result); `ref-schedule.md` is
+  the ref rota with acceptance tracking; then one file per
   game: lineup/rotation, then result and notes after.
 - `notes/` — meeting notes and running records, one file per date
   (`YYYY-MM-DD-topic.md`). Dated snapshots — they don't get updated later.
