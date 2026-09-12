@@ -6,19 +6,24 @@
 
 Contains contact info for player families — keep this repo private.
 
+## Uniforms
+
+- **Home = RED jersey. Away = WHITE jersey.** Red + black socks for everyone.
+- Jersey numbers from the region roster sheet (as of Aug 28, 2026).
+
 ## Players (9)
 
-| # | Player | Account holder | Email | Phone | Notes |
-|---|--------|-----------------|-------|-------|-------|
-| 1 | Isaac Clark-Strom | Mary Clark | marycarolineclark@gmail.com | 909-261-1277 | |
-| 2 | Beckett Davis | Angela Davis | asikkenga@hotmail.com | 626-803-8211 | Met at meet-the-coach event |
-| 3 | Cortez Esperias | Christian Esperias | christianesperias@gmail.com | 323-316-5580 | |
-| 4 | Thomas Holman | Scott Holman | sholman85@gmail.com | 626-372-9111 | |
-| 5 | Daniel Kong | Leo Kong | leokong9054@gmail.com | 626-510-5806 | Veteran — on my previous team |
-| 6 | Zayden Mercado | Melissa LeDonne | melissa@jaylahn.com | 626-808-1295 | Veteran — on my previous team |
-| 7 | Grayson Nosic | Michelle Nosic | mgnosic@yahoo.com | 626-755-7153 | |
-| 8 | Michael Nosic | Michelle Nosic | mgnosic@yahoo.com | 626-755-7153 | |
-| 9 | Leon Pecho | Jason Pecho | gtplyrjp@gmail.com | 708-819-0000 | Met at meet-the-coach event |
+| # | Jersey | Size | Player | Account holder | Email | Phone | Notes |
+|---|--------|------|--------|-----------------|-------|-------|-------|
+| 1 | **72** | Youth-Large | Isaac Clark-Strom | Mary Clark | marycarolineclark@gmail.com | 909-261-1277 | |
+| 2 | **26** | Youth-Small | Beckett Davis | Angela Davis | asikkenga@hotmail.com | 626-803-8211 | Met at meet-the-coach event |
+| 3 | **47** | Youth-Medium | Cortez Esperias | Christian Esperias | christianesperias@gmail.com | 323-316-5580 | |
+| 4 | **29** | Youth-Small | Thomas Holman | Scott Holman | sholman85@gmail.com | 626-372-9111 | |
+| 5 | **80** | Adult-Small | Daniel Kong | Leo Kong | leokong9054@gmail.com | 626-510-5806 | Veteran — on my previous team |
+| 6 | **74** | Youth-Large | Zayden Mercado | Melissa LeDonne | melissa@jaylahn.com | 626-808-1295 | Veteran — on my previous team |
+| 7 | **48** | Youth-Medium | Grayson Nosic | Michelle Nosic | mgnosic@yahoo.com | 626-755-7153 | |
+| 8 | **49** | Youth-Medium | Michael Nosic | Michelle Nosic | mgnosic@yahoo.com | 626-755-7153 | |
+| 9 | **53** | Youth-Medium | Leon Pecho | Jason Pecho | gtplyrjp@gmail.com | 708-819-0000 | Met at meet-the-coach event |
 
 ## Team personnel
 
