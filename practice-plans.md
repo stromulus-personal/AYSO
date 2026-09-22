@@ -232,3 +232,18 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 6:45–7:15 | Scrimmage (30 min) — run tomorrow's Q1 lineup for the first stretch so they've seen it: Isaac GK, Leon CB, Thomas LB, Cortez RB, Grayson CM, Mikey + Beckett up front, Zayden + Daniel on the other side with whoever rotates. Then mix freely. Rotate keepers |
 | 7:15–7:20 | Closing huddle — hype for game 1, Grayson's captain brief again, "best sports on the field" |
 | 7:20–7:30 | **Parent huddle — game 1 logistics:** 1:00 PM Dana MS East, away side, arrive 12:30, jerseys, snack plan, technical-areas rule (parents stay off the team side), we ref the 2:00 game after so we're there till 3 |
+
+## Practice 5 — Tue Sep 22 — "Go at them" + restarts (1v1 courage block, week 4)
+
+| Time | Activity |
+|------|----------|
+| 6:00–6:05 | Arrive-and-play: Score and Reset, then 2-min huddle: new block, "go at them," praise the attempt not the outcome |
+| 6:05–6:10 | **Warm-up routine** — Beckett leads (captain Saturday) |
+| 6:10–6:15 | Name rondo, 3-step, defender on the kick round |
+| 6:15–6:30 | **Throw-ins.** 2 min demo legal vs foul, kids call it. 5 min buddy-pair reps over a cone sideline. 5 min "Foul or Fine?" — group referees. 3 min game-speed: throw to a moving buddy who turns and dribbles |
+| 6:30–6:35 | **Water + rules chat: goal kick / keeper restart** — opponents behind the build-out line, keeper rolls or passes, no punts |
+| 6:35–6:50 | **Goalie restarts.** Real build-out line. Two groups, one per goal. Keeper takes a goal kick or a catch, backs spread wide and deep, keeper rolls/passes to a fullback, fullback plays forward. 5 reps per keeper, rotate. Last round: one defender may press once the ball crosses the line |
+| 6:50–7:00 | 1v1 to small goals — coach serve, attacker vs defender, 30 s, swap. Praise every attempt to take a player on |
+| 7:00–7:15 | Scrimmage (15) — every restart done properly. Stop play only for a wrong restart |
+| 7:15–7:20 | Closing huddle — shout-outs; bank a coin observation for Beckett |
+| 7:20–7:30 | Parent huddle: Sat 2:30 at Foothills MS East, away (white). Christian refs the 1:30 game before |
