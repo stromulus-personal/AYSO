@@ -45,6 +45,10 @@ Thomas TBD (missed P2 sick). See `notes/` for per-practice records.
   (rules chats), but hydration is more frequent than that — quick 60–90
   second "flash breaks" every 15–20 min, bottles lined up on the sideline,
   drink-when-you-pass. No schedule change needed; it's a habit, not a slot.
+- **No standing around (lesson from P5, 9/22):** rep drills with buddy
+  pairs and rules chats over a minute leave kids idle. Prefer
+  everyone-with-a-ball games and continuous small-sided formats; put
+  teaching points inside the game, not before it.
 - **Plan for 7 or 8 kids, not 9:** attendance won't be perfect. Scrimmage
   formats that survive absences: 3v3 with a rotating third team, or 4v3
   with the extra player on whichever side needs the help.
@@ -158,6 +162,7 @@ stretches during the closing huddle works as a cool-down.)
 1. Easy jog around the grid — ~1 min
 2. High knees across, butt kicks back
 3. Side shuffle across and back (switch lead leg)
+3a. Carioca (grapevine) across and back — trailing leg crosses front, then behind
 4. Open-the-gate / close-the-gate hip circles — 5 each leg
 5. Toy-soldier kicks (straight leg, touch your hand) — 10 steps
 6. Lunge walk — 6 steps
@@ -247,3 +252,21 @@ for talking to parents at pickup (kids free-play or collect gear).
 | 7:00–7:15 | Scrimmage (15) — every restart done properly. Stop play only for a wrong restart |
 | 7:15–7:20 | Closing huddle — shout-outs; bank a coin observation for Beckett |
 | 7:20–7:30 | Parent huddle: Sat 2:30 at Foothills MS East, away (white). Christian refs the 1:30 game before |
+
+## Practice 6 — Thu Sep 24 — "Go at them," all motion (1v1 block, week 4)
+
+Built after P5 had too much standing around: every block is
+everyone-with-a-ball or a continuous game, no lines.
+
+| Time | Activity |
+|------|----------|
+| 6:00–6:05 | Arrive-and-play: Score and Reset. No huddle until after warm-up |
+| 6:05–6:10 | **Warm-up routine** — Beckett leads. Carioca added after side shuffle |
+| 6:10–6:20 | **World Cup Dribble Knockout** — knocked out = 5 toe taps then back in. Shrink the grid every 2 min |
+| 6:20–6:30 | **1v1 gates** — six cone gates in a grid, pairs with one ball, score through any gate, lose it and you defend. Continuous, 90 s then swap partners |
+| 6:30–6:35 | Flash water. 1-min chat: "go at them," the attempt is the win |
+| 6:35–6:50 | **Around the World**, 2v1 and 3v2, rapid fire — next group runs as soon as a play ends. Groups of three, rep every ~30 s |
+| 6:50–6:55 | Flash water, no talk |
+| 6:55–7:15 | Scrimmage (20) — 3v3 + keepers on a short field; third team does Score and Reset at the far goal and rotates in every 4 min. Nobody sits |
+| 7:15–7:20 | Closing huddle — shout-outs; bank a Beckett observation for Saturday's coin |
+| 7:20–7:30 | Parent huddle: Sat 2:30 Foothills MS East, away (white), arrive 2:00. Christian refs the 1:30 |
