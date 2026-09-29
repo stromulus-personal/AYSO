@@ -271,11 +271,17 @@ everyone-with-a-ball or a continuous game, no lines.
 | 7:15–7:20 | Closing huddle — shout-outs; bank a Beckett observation for Saturday's coin |
 | 7:20–7:30 | Parent huddle: Sat 2:30 Foothills MS East, away (white), arrive 2:00. Christian refs the 1:30 |
 
-## Practice 7 — Tue Sep 29 — "Goal-side" (defending, 1v1 block week 5)
+## Practice 7 — Tue Sep 29 — "Goal-side" + talk (defending and communication, 1v1 block week 5)
 
-Why: we gave up early goals again in game 3 before settling in. Two fixes:
-defending fundamentals, and a drill that recreates the first minutes of a
-game. All blocks are everyone-active, no lines.
+Why: we gave up early goals again in game 3 before settling in. Also, this
+Saturday (Oct 3) is **Silent Saturday**: no coaching or instructions from
+the sideline, so the kids have to run the game themselves. Two themes:
+defending fundamentals and kids talking to each other. All blocks are
+everyone-active, no lines.
+
+**Talk words, kids say them out loud:** "Ball!" (I'm pressuring), "Cover!"
+(I'm behind you), "Man on!" (someone's closing you), "Time!" (you have
+space), "Switch!" (swap sides). Say them all practice, every practice.
 
 **Three defending words:** *goal-side* (be between the ball and our goal),
 *side-on* (turn your hips so the attacker can only go one way), *slow down*
@@ -286,15 +292,26 @@ game. All blocks are everyone-active, no lines.
 | 6:00–6:05 | Arrive-and-play: Score and Reset |
 | 6:05–6:10 | **Warm-up routine** — Cortez leads (captain Saturday) |
 | 6:10–6:18 | **Shadow dribble.** Pairs, one ball each pair. Leader dribbles anywhere in the grid, partner stays goal-side and side-on a step behind, never lunging. Swap every 45 seconds. Everyone moves the whole time |
-| 6:18–6:23 | Flash water. 1-min chat: the three words, said out loud together |
+| 6:18–6:23 | Flash water. 1-min chat: the three defending words and the five talk words, said out loud together. Tell them Saturday is Silent Saturday, so they are the coaches |
 | 6:23–6:38 | **1v1 defending stations.** Three stations of three, each a small goal with a keeper. Attacker starts 15 yards out with the ball, defender starts at the goal line, keeper in goal. Defender closes fast, slows down, forces the attacker wide. Roles rotate every rep, stations swap every 5 minutes. Praise the delay, not just the tackle |
 | 6:38–6:43 | Flash water, no talk |
-| 6:43–6:58 | **Around the World, defenders outnumbered.** 2 defenders v 3 attackers. Defenders run around the goal, attackers around the cones. Coach teaches one thing only: first defender slows the ball, second defender covers behind him and talks ("I've got ball, you cover"). Rotate defenders after every play. Two games side by side so groups are 4 or 5 |
-| 6:58–7:15 | **Settle-in scrimmage.** Plays like the first minutes of a game. Two teams, 4 rounds of 3 minutes. Every round starts with a fresh kickoff and the attacking team gets the first touch. Count goals allowed in the first 2 minutes of each round. Fewest wins the round. Last 5 minutes free play |
-| 7:15–7:20 | Closing huddle: shout out one good defensive delay by name. Bank it in the observation log |
-| 7:20–7:30 | Parent huddle: game 4 is Sat 11:00 AM at Dana East, away (white). **Arrive by 10:15** for a real warm-up. Zayden's brother refs the 12:00 game after |
+| 6:43–6:58 | **Around the World, defenders outnumbered.** 2 defenders v 3 attackers. Defenders run around the goal, attackers around the cones. Coach teaches one thing only: first defender slows the ball and calls "Ball!", second defender covers behind him and calls "Cover!". Play stops and restarts if a play happens with no talk. Rotate defenders after every play. Two games side by side so groups are 4 or 5 |
+| 6:58–7:15 | **Settle-in scrimmage.** Plays like the first minutes of a game. Two teams, 4 rounds of 3 minutes. Every round starts with a fresh kickoff and the attacking team gets the first touch. Count goals allowed in the first 2 minutes of each round. Fewest wins the round. **Last round is a silent round:** coach and all adults say nothing, whistle only. Kids call every restart, sub, and switch themselves |
+| 7:15–7:20 | Closing huddle: shout out one good defensive delay and one good call by name. Bank both in the observation log. Tell Cortez he leads the sub calls Saturday |
+| 7:20–7:30 | Parent huddle: game 4 is Sat 11:00 AM at Dana East, away (white). **Arrive by 10:15** for a real warm-up. Zayden's brother refs the 12:00 game after. **Explain Silent Saturday to parents:** cheer and clap, no instructions, no coaching, no talking to the ref |
 
 **Game-day fix for slow starts:** arrive 45 minutes early and run a hot
 warm-up before kickoff: warm-up routine, 2 minutes of passing in pairs,
 then a 3v3 to small goals for 5 minutes. Kids who start cold give up the
 first goal.
+
+**Silent Saturday prep (Oct 3):**
+- Kids need to know their own quarter plan before kickoff, since Sam can't
+  call it from the sideline. Walk through the lineup card with the team at
+  the pregame huddle, and give Cortez, as captain, the job of calling who
+  goes in and who comes out at each break.
+- Keep the Game 4 lineup simple, with few changes at each break, so the kids
+  can run it themselves.
+- Checking the region's exact Silent Saturday rules for coaches is worth a
+  quick look. I've assumed no sideline instruction from anyone, but haven't
+  confirmed how the region wants subs handled.
