@@ -270,3 +270,31 @@ everyone-with-a-ball or a continuous game, no lines.
 | 6:55–7:15 | Scrimmage (20) — 3v3 + keepers on a short field; third team does Score and Reset at the far goal and rotates in every 4 min. Nobody sits |
 | 7:15–7:20 | Closing huddle — shout-outs; bank a Beckett observation for Saturday's coin |
 | 7:20–7:30 | Parent huddle: Sat 2:30 Foothills MS East, away (white), arrive 2:00. Christian refs the 1:30 |
+
+## Practice 7 — Tue Sep 29 — "Goal-side" (defending, 1v1 block week 5)
+
+Why: we gave up early goals again in game 3 before settling in. Two fixes:
+defending fundamentals, and a drill that recreates the first minutes of a
+game. All blocks are everyone-active, no lines.
+
+**Three defending words:** *goal-side* (be between the ball and our goal),
+*side-on* (turn your hips so the attacker can only go one way), *slow down*
+(close fast, then stop a step away and don't dive in).
+
+| Time | Activity |
+|------|----------|
+| 6:00–6:05 | Arrive-and-play: Score and Reset |
+| 6:05–6:10 | **Warm-up routine** — Cortez leads (captain Saturday) |
+| 6:10–6:18 | **Shadow dribble.** Pairs, one ball each pair. Leader dribbles anywhere in the grid, partner stays goal-side and side-on a step behind, never lunging. Swap every 45 seconds. Everyone moves the whole time |
+| 6:18–6:23 | Flash water. 1-min chat: the three words, said out loud together |
+| 6:23–6:38 | **1v1 defending stations.** Three stations of three, each a small goal with a keeper. Attacker starts 15 yards out with the ball, defender starts at the goal line, keeper in goal. Defender closes fast, slows down, forces the attacker wide. Roles rotate every rep, stations swap every 5 minutes. Praise the delay, not just the tackle |
+| 6:38–6:43 | Flash water, no talk |
+| 6:43–6:58 | **Around the World, defenders outnumbered.** 2 defenders v 3 attackers. Defenders run around the goal, attackers around the cones. Coach teaches one thing only: first defender slows the ball, second defender covers behind him and talks ("I've got ball, you cover"). Rotate defenders after every play. Two games side by side so groups are 4 or 5 |
+| 6:58–7:15 | **Settle-in scrimmage.** Plays like the first minutes of a game. Two teams, 4 rounds of 3 minutes. Every round starts with a fresh kickoff and the attacking team gets the first touch. Count goals allowed in the first 2 minutes of each round. Fewest wins the round. Last 5 minutes free play |
+| 7:15–7:20 | Closing huddle: shout out one good defensive delay by name. Bank it in the observation log |
+| 7:20–7:30 | Parent huddle: game 4 is Sat 11:00 AM at Dana East, away (white). **Arrive by 10:15** for a real warm-up. Zayden's brother refs the 12:00 game after |
+
+**Game-day fix for slow starts:** arrive 45 minutes early and run a hot
+warm-up before kickoff: warm-up routine, 2 minutes of passing in pairs,
+then a 3v3 to small goals for 5 minutes. Kids who start cold give up the
+first goal.
