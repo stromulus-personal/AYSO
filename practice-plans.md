@@ -312,6 +312,5 @@ first goal.
   goes in and who comes out at each break.
 - Keep the Game 4 lineup simple, with few changes at each break, so the kids
   can run it themselves.
-- Checking the region's exact Silent Saturday rules for coaches is worth a
-  quick look. I've assumed no sideline instruction from anyone, but haven't
-  confirmed how the region wants subs handled.
+- Confirmed by coach (9/29): Sam cannot talk during the game on Silent
+  Saturday. Everything the kids need has to be settled before kickoff.
