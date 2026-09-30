@@ -45,6 +45,9 @@ Thomas TBD (missed P2 sick). See `notes/` for per-practice records.
   (rules chats), but hydration is more frequent than that — quick 60–90
   second "flash breaks" every 15–20 min, bottles lined up on the sideline,
   drink-when-you-pass. No schedule change needed; it's a habit, not a slot.
+- **Equipment: two goals only.** Design every drill for two goals plus
+  cone gates (two cones about 4 yards apart) as extra goals. Check this
+  before writing any station-based plan.
 - **No standing around (lesson from P5, 9/22):** rep drills with buddy
   pairs and rules chats over a minute leave kids idle. Prefer
   everyone-with-a-ball games and continuous small-sided formats; put
@@ -293,7 +296,7 @@ space), "Switch!" (swap sides). Say them all practice, every practice.
 | 6:05–6:10 | **Warm-up routine** — Cortez leads (captain Saturday) |
 | 6:10–6:18 | **Shadow dribble.** Pairs, one ball each pair. Leader dribbles anywhere in the grid, partner stays goal-side and side-on a step behind, never lunging. Swap every 45 seconds. Everyone moves the whole time |
 | 6:18–6:23 | Flash water. 1-min chat: the three defending words and the five talk words, said out loud together. Tell them Saturday is Silent Saturday, so they are the coaches |
-| 6:23–6:38 | **1v1 defending stations.** Three stations of three, each a small goal with a keeper. Attacker starts 15 yards out with the ball, defender starts at the goal line, keeper in goal. Defender closes fast, slows down, forces the attacker wide. Roles rotate every rep, stations swap every 5 minutes. Praise the delay, not just the tackle |
+| 6:23–6:38 | **1v1 defending stations.** Three stations of three. Stations 1 and 2 use the two real goals with a keeper in each. Station 3 is a cone gate (two cones about 4 yards apart) with no keeper: the third kid serves and retrieves. Attacker starts 15 yards out with the ball, defender starts at the goal line. Defender closes fast, slows down, forces the attacker wide. Roles rotate every rep, stations swap every 5 minutes so everyone gets a turn on the real goals. Praise the delay, not just the tackle |
 | 6:38–6:43 | Flash water, no talk |
 | 6:43–6:58 | **Around the World, defenders outnumbered.** 2 defenders v 3 attackers. Defenders run around the goal, attackers around the cones. Coach teaches one thing only: first defender slows the ball and calls "Ball!", second defender covers behind him and calls "Cover!". Play stops and restarts if a play happens with no talk. Rotate defenders after every play. Two games side by side so groups are 4 or 5 |
 | 6:58–7:15 | **Settle-in scrimmage.** Plays like the first minutes of a game. Two teams, 4 rounds of 3 minutes. Every round starts with a fresh kickoff and the attacking team gets the first touch. Count goals allowed in the first 2 minutes of each round. Fewest wins the round. **Last round is a silent round:** coach and all adults say nothing, whistle only. Kids call every restart, sub, and switch themselves |
