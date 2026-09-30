@@ -287,7 +287,7 @@ everyone-active, no lines.
 space), "Switch!" (swap sides). Say them all practice, every practice.
 
 **Three defending words:** *goal-side* (be between the ball and our goal),
-*side-on* (turn your hips so the attacker can only go one way), *slow down*
+*side-on* (turn your hips so the attacker can only go one way), *delay*
 (close fast, then stop a step away and don't dive in).
 
 | Time | Activity |
