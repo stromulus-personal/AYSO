@@ -317,3 +317,34 @@ first goal.
   can run it themselves.
 - Confirmed by coach (9/29): Sam cannot talk during the game on Silent
   Saturday. Everything the kids need has to be settled before kickoff.
+
+## Practice 8 — Thu Oct 1 — "Run it yourselves" (hot-day plan, Silent Saturday rehearsal)
+
+Why: it's very hot, and Saturday is Silent Saturday. Sam can't talk during
+game 4, so the kids need to rehearse making their own position changes.
+
+**Hot-day rules (use any time it's hot):**
+- Water every 8 to 10 minutes, bottles lined up in the shade, drink as you pass
+- Huddles in the shade, kids sit down
+- Walking and jogging pace, no sprint bursts, no fitness finishers
+- Prefer low-exertion skill work (shooting, passing) over chasing games
+- Watch for kids who go quiet, red, or stop sweating: sit them in the shade
+  with water right away
+- End kid time early if it isn't letting up
+
+| Time | Activity |
+|------|----------|
+| 6:00–6:05 | Arrive-and-play: Score and Reset, but walk the ball back to the cone line, shots only. Bottles out first |
+| 6:05–6:10 | **Short warm-up** in the shade or near it: jog, high knees, side shuffle, carioca, lunge walk, flamingo. Skip the sprint bursts |
+| 6:10–6:20 | **Shade huddle, game 4 card.** Kids sit. Cortez reads the lineup card out loud, quarter by quarter. Each kid says his own spot for each quarter. Practice the five talk words once. Water after |
+| 6:20–6:30 | **Passing pairs, moving** at jog pace. Check in, check out off the throw-in idea: pass, then move to a new spot. Everyone has a ball in a pair, nobody waits |
+| 6:30–6:35 | Water |
+| 6:35–6:50 | **Shooting from increasing distances.** Two lines, one at each goal. Start close, step back a few yards at a time. Thomas and Zayden each take extra turns in goal since both keep Saturday. Keepers rotate every 2 to 3 minutes |
+| 6:50–6:55 | Water and shade |
+| 6:55–7:15 | **Silent rehearsal scrimmage.** Four 3-minute quarters with a 90-second water break between each. The break is the sub break: kids make the Game 4 position changes themselves, Cortez calls them from the card. Coach says nothing, whistle only. Fresh kickoff each quarter |
+| 7:15–7:20 | Closing huddle in the shade. Shout out one good call and one good change by name |
+| 7:20–7:30 | Parent huddle. Game 4 Saturday 11:00 at Dana East, away (white). Arrive 10:15. Bring water, a hat, and a full bottle each. Silent Saturday: cheer and clap, no instructions or talking to the ref |
+
+**If it is still brutal at 6:00:** drop the scrimmage to two 3-minute
+quarters, finish kid time at 7:00, and move the rehearsal to Saturday's
+pre-game huddle on the sideline.
