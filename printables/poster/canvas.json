@@ -1,0 +1,10 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 816, "h": 1056, "title": "Option A — Candy stripes, summer to fall" },
+    { "file": "Pennant.dc.html", "x": 920, "y": 0, "w": 816, "h": 1056, "title": "Option B — Retro pennant (sketch)" }
+  ],
+  "annotations": [
+    { "id": "pick", "x": 0, "y": -150, "w": 420, "text": "Option A is the built poster. Option B is a rough alternate direction — say the word and I'll build it out instead." }
+  ],
+  "launch": { "view": "canvas" }
+}
