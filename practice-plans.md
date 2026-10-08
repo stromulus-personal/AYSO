@@ -367,9 +367,36 @@ Equipment: two goals plus cone gates. Everyone active, no lines.
 | 6:05–6:10 | **Warm-up routine** — Isaac leads (captain Saturday) |
 | 6:10–6:20 | **Guard the line.** Pairs, one ball, each pair in a 10x15 channel with a cone end line. Attacker tries to dribble over the line; defender starts goal-side and stays between ball and line, side-on, delaying. Score = attacker stops the ball on the line. 30 seconds, swap, all pairs at once |
 | 6:20–6:25 | Flash water. 1-min chat: "Ball, me, goal." Walk it once: coach holds a ball, kids find the line to the goal and stand on it |
-| 6:25–6:40 | **Recovery race.** Both goals, keeper in each, two lanes per goal running at the same time. Attacker starts 5 yards ahead of the defender. Coach rolls the ball to the attacker. Defender's first move is a sprint back toward his own goal to get on the line, then turn side-on and delay. Attacker tries to score. Rotate attacker → defender → back of lane every rep; keepers swap every 3 minutes |
+| 6:25–6:40 | **Recovery race** (see setup below). One station at each goal, keeper in each, 4 kids per station working in pairs. Defender starts 2 yards *behind* the attacker, as if he just lost the ball. Coach plays the ball past them toward goal. Defender's first move is a sprint back toward the near post, not at the ball; once he's on the ball-me-goal line, turn side-on and delay. Attacker tries to score. Pairs alternate, swap roles each rep, keepers swap every 3 min |
 | 6:40–6:45 | Flash water, no talk |
 | 6:45–7:00 | **Recover and Cover.** 3v3 plus keepers on a short field, both goals. When your team loses the ball, everyone gets back on the ball-me-goal line before anyone tackles. First defender calls "Ball!", second calls "Cover!". Bonus point for a goal scored right after winning the ball back. Spare player rotates in as keeper every 2 minutes |
 | 7:00–7:15 | **Scrimmage with freeze checks.** Whatever teams the numbers allow. Three or four times, coach yells "Freeze!" Everyone stops; every defender points at our goal and checks if he's on the line. Anyone off it takes one step to fix it. Restart in under 15 seconds. Praise kids who were already there |
 | 7:15–7:20 | Closing huddle: shout out the best recovery run by name. Bank one observation for Isaac's coin Saturday |
 | 7:20–7:30 | Parent huddle: game 5 is Sat Oct 10, 1:00 PM at Dana East, **home (red)**, vs Abimannan. Arrive 12:15 for a hot warm-up. Ref duty right after at 2:00: center + AR1 (Christian and Zayden's brother) |
+
+**Recovery race setup (per goal):**
+
+```
+            [  GOAL  ]   keeper
+                |
+          near post  <-- defender sprints HERE first,
+                |        not at the ball
+                |
+        ~20 yd  |
+                |
+   A  attacker  o  ball played past both, toward goal
+   D  defender (2 yd behind A)
+   C  coach (serves from behind)
+```
+
+- **Why two goals:** two identical stations, one at each goal, so each
+  station is 4 field players plus a keeper. A kid goes every 20 to 30
+  seconds instead of waiting in one long line.
+- **Why the defender starts behind:** that's the game situation that hurt
+  us. The attacker has the jump. The defender wins by running the right
+  line back, not by being faster to the ball.
+- **What to watch:** first two steps go toward our near post. A kid who
+  turns and chases the ball's path is the mistake to fix.
+- **Make it harder:** bigger head start (3 to 4 yards), or start the
+  defender beside the attacker but facing the wrong way.
+- **Make it easier:** start the defender level with the attacker.
