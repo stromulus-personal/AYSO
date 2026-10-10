@@ -59,7 +59,8 @@ Daniel. TBD: Thomas.
 - P1: big and fast for the age class, strong and aggressive winning the
   ball. Center back candidate, can also play up. Anchor talent
 - Primary defender (P2)
-- Always late — start him on the bench
+- Not late: on time or early all season (corrected by coach 10/10). No
+  need to bench him at kickoff
 
 ## Grayson Nosic
 
