@@ -400,3 +400,34 @@ Equipment: two goals plus cone gates. Everyone active, no lines.
 - **Make it harder:** bigger head start (3 to 4 yards), or start the
   defender beside the attacker but facing the wrong way.
 - **Make it easier:** start the defender level with the attacker.
+
+## Practice 10 — Tue Oct 13 — "Look up, then decide" (finding a friend block, week 7)
+
+New block (weeks 7–9, from the coaches meeting): **finding a friend**.
+Dribbling or passing is a *choice*, and you can only choose if you look up
+first. Coming off the first win since game 1 (2-1 vs Abimannan).
+
+**Win/loss language (meeting note: weeks 6–8 is when it leaks in).** Praise
+what they did, not the score: "We won because we stayed goal-side and
+talked." If a kid brags or asks about the standings, bring it back to
+effort and teammates.
+
+**The cue: "Look up, then decide."** Before the ball gets to you, peek over
+your shoulder. Space in front → turn and dribble. Someone on you → pass to a
+friend.
+
+Equipment: two goals plus cones. Everyone active, no lines. (Around the
+World is retired for now.)
+
+| Time | Activity |
+|------|----------|
+| 6:00–6:05 | Arrive-and-play: Score and Reset |
+| 6:05–6:10 | **Warm-up routine** — Leon leads (captain Saturday). 1-min win huddle: "We won because we stayed goal-side and talked." Name two kids for something specific |
+| 6:10–6:20 | **Heads-up dribble.** Everyone dribbles in a grid. Coach holds up fingers; first to shout the number gets a point. Then coach yells "Pass!" and everyone passes to the nearest teammate and keeps going with the ball they receive. Every kid on a ball the whole time |
+| 6:20–6:25 | Flash water. 1-min chat: "Look up, then decide." Demo the shoulder peek once |
+| 6:25–6:40 | **Rondos.** Two grids about 10x10: a 3v1 and a 4v1 (9 kids). Keep it away; 5 passes in a row = a point. Defender swaps in every 30 seconds or when he wins it. Cue: peek before the ball arrives. Rotate kids between grids every 5 minutes |
+| 6:40–6:45 | Flash water, no talk |
+| 6:45–7:00 | **Pass or dribble, your call.** 4v4 plus one neutral player (bright pinnie) who always plays for the team with the ball, both goals, no keepers. Goal = 1 point; goal after 3 or more passes = 2 points; a dribble past a defender that leads to a goal = 2 points. Both choices pay, so the decision is what we're coaching. Neutral swaps every 3 minutes |
+| 7:00–7:15 | **Scrimmage with "who's open?" freezes.** Three times, coach yells "Freeze!" The player with the ball names one open teammate and says whether he'd pass or dribble. Restart in under 15 seconds |
+| 7:15–7:20 | Closing huddle: shout out one good decision, pass or dribble, not one goal. Bank an observation for Leon's coin |
+| 7:20–7:30 | Parent huddle: game 6 is Sat Oct 17, **12:00 PM** at Dana East, **home (red)**, vs Newman. Arrive 11:15. Ref duty right after at 1:00: center + AR1 (Sam and Leo). Ask parents to cheer effort and teamwork, not the score |
