@@ -431,3 +431,26 @@ World is retired for now.)
 | 7:00–7:15 | **Scrimmage with "who's open?" freezes.** Three times, coach yells "Freeze!" The player with the ball names one open teammate and says whether he'd pass or dribble. Restart in under 15 seconds |
 | 7:15–7:20 | Closing huddle: shout out one good decision, pass or dribble, not one goal. Bank an observation for Leon's coin |
 | 7:20–7:30 | Parent huddle: game 6 is Sat Oct 17, **12:00 PM** at Dana East, **home (red)**, vs Newman. Arrive 11:15. Ref duty right after at 1:00: center + AR1 (Sam and Leo). Ask parents to cheer effort and teamwork, not the score |
+
+## Practice 11 — Thu Oct 15 — "Fun night: friends and finishing" (finding a friend block, week 7)
+
+Owner ask: make it fun, include shooting, maybe PKs. Last practice before
+game 6 (Sat Oct 17 vs Newman). Keep the finding-a-friend thread light:
+goals after a pass count double all night.
+
+| Time | Activity |
+|------|----------|
+| 6:00–6:05 | Arrive-and-play: Score and Reset |
+| 6:05–6:10 | **Warm-up routine**, Leon leads (captain Saturday) |
+| 6:10–6:20 | **World Cup Dribble Knockout.** Everyone dribbles in a grid, knock others' balls out, protect your own. Knocked out = 5 toe taps, then right back in. Shrink the grid every 2 minutes. Last two standing each round get a cheer |
+| 6:20–6:25 | Flash water |
+| 6:25–6:40 | **Long Range Challenge.** Shooting from increasing distances, both goals at once, two lines of about 4. Start close, step back a few yards after each round. Keepers rotate every 2 minutes so every kid gets a turn in goal. Bonus: the farthest goal of the night earns the "Rocket" shout-out at closing |
+| 6:40–6:45 | Flash water |
+| 6:45–7:00 | **3v3 World Cup.** Three teams of 3, both goals, no keepers, 3-minute games. Winner stays on, loser goes to Score and Reset at the side. A goal after a pass counts 2. Team names are countries the kids pick. 15 minutes total |
+| 7:00–7:12 | **PK Shootout.** Two shootouts at once, one at each goal, teams of 4 or 5. Every kid takes a PK from the penalty mark, then the shooter becomes the next keeper. Tied after one round = sudden death. Final round: winners of each goal face each other, and the last shot goes against Coach Sam in goal |
+| 7:12–7:20 | Closing huddle. Rocket shout-out, PK champs, one good pass by name. Bank an observation for Leon's coin |
+| 7:20–7:30 | Parent huddle: game 6 is Sat Oct 17, **12:00 PM** at Dana East, **home (red)**, vs Newman. Arrive 11:15. Ref duty right after at 1:00: center + AR1 (Sam and Leo), so Sam is busy until about 2:00 |
+
+**Note on PKs:** shootouts have built-in waiting. Running two at once and
+having each shooter become the next keeper keeps turns quick. Cap it at 12
+minutes.
