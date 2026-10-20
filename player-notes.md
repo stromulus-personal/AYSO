@@ -50,6 +50,9 @@ Daniel. TBD: Thomas.
 - Goalie / other — needs the most support (P2)
 - P3: struggled in the drills but active on offense in the live scrimmage —
   the game switches him on more than practice does
+- **Game 6 (10/17): scored his first goal of the season.** Played striker
+  the whole first half. Build on it: tell him what he did right, not just
+  that he scored
 
 ## Zayden Mercado
 
