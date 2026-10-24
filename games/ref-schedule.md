@@ -25,7 +25,7 @@ Center ref is always an adult; youth refs take AR (line) slots.
 | 4 | Sat Oct 3 | 12:00 PM | Dana MS - E | Hogan v Ergenc | after our 11:00 game | AR2 | Zayden's brother | ☐ |
 | 5 | Sat Oct 10 | 2:00 PM | Dana MS - E | Ergenc v Hermes | after our 1:00 game | Center + AR1 | Christian (center), Zayden's brother (AR1) | ☐ |
 | 6 | Sat Oct 17 | 1:00 PM | Dana MS - E | Krausse v Thomas-Patel | after our 12:00 game | Center + AR1 | Sam (center), Leo (AR1) | ☐ |
-| 7 | Sat Oct 24 | 1:30 PM | Foothills MS - W | Villafana v Hogan | BEFORE our 2:30 game | Center + AR1 | Christian (center), Leo (AR1) | ☐ |
+| 7 | Sat Oct 24 | 1:30 PM | Foothills MS - W | Villafana v Hogan | BEFORE our 2:30 game | ~~Center + AR1~~ **None (coach confirmed 10/24)** | — | n/a |
 | 8 | Sat Oct 31 | 2:00 PM | Dana MS - E | Newman v Krausse | after our 1:00 game | AR2 | Zayden's brother | ☐ |
 | 9 | Sat Nov 7 | 2:30 PM | Foothills MS - W | Tedei v Hermes | after our 1:30 game | Center + AR1 | Sam (center), Zayden's brother (AR1) | ☐ |
 
@@ -41,7 +41,8 @@ Center ref is always an adult; youth refs take AR (line) slots.
 ## Notes
 
 - Sam never centers a game that starts before ours — coaching prep comes
-  first. Christian takes both "before our game" weeks (Sep 26, Oct 24).
+  first. Christian takes the "before our game" week (Sep 26). Oct 24 turned out to
+  have no ref duty for us (coach, 10/24), though the Sep 10 export listed one.
 - Sam and Christian never center the same day, so one adult is always
   free with the team during ref duty.
 - Youth refs are paired with an adult center on every two-person slot.
