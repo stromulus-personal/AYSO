@@ -17,7 +17,7 @@ Captain = sportsmanship leader for that game and gets the coin (see
 | 4 | Sat Oct 3 | 11:00 AM | Dana MS - E | Away | Thomas-Patel | Cortez | 12:00 PM · AR · Hogan v Ergenc | Zayden's brother |  |
 | 5 | Sat Oct 10 | 1:00 PM | Dana MS - E | Home | Abimannan | Isaac | 2:00 PM · Center + AR1 · Ergenc v Hermes | Christian (center), Zayden's brother (AR1) | **W 2-1** |
 | 6 | Sat Oct 17 | 12:00 PM | Dana MS - E | Home | Newman | Leon | 1:00 PM · Center + AR1 · Krausse v Thomas-Patel | Sam (center), Leo (AR1) | **W** (lopsided; Daniel 1st goal) |
-| 7 | Sat Oct 24 | 2:30 PM | Foothills MS - W | Home | Krausse | Mikey | None (coach confirmed 10/24) | — |  |
+| 7 | Sat Oct 24 | 2:30 PM | Foothills MS - W | Home | Krausse | Mikey | None (coach confirmed 10/24) | — | **W 3-0** (shutout) |
 | 8 | Sat Oct 31 | 1:00 PM | Dana MS - E | Away | Hoover | Zayden | 2:00 PM · AR · Newman v Krausse | Zayden's brother |  |
 | 9 | Sat Nov 7 | 1:30 PM | Foothills MS - W | Home | Hernandez | Thomas | 2:30 PM · Center + AR1 · Tedei v Hermes | Sam (center), Zayden's brother (AR1) |  |
 
@@ -25,5 +25,5 @@ Playoffs begin the week of Nov 9 (weeknight games for some) per
 `season-info.md`. Playoff captain: whoever earned it.
 
 Game 5 (10/10) was the first win since game 1. Game 6 (10/17) made it two
-straight. Scores for games 1 to 4 not
+straight, and game 7 (10/24, 3-0 shutout) made it three. Scores for games 1 to 4 not
 recorded yet.

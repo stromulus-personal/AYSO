@@ -454,3 +454,22 @@ goals after a pass count double all night.
 **Note on PKs:** shootouts have built-in waiting. Running two at once and
 having each shooter become the next keeper keeps turns quick. Cap it at 12
 minutes.
+
+## Practice 12 — Tue Oct 27 — "Halloween week" (fun night, finding a friend block, week 9)
+
+Coming off three straight wins (game 7: 3-0 shutout). Saturday is
+Halloween. Owner ask: another fun practice. Goals after a pass still count
+double all night to keep the finding-a-friend thread going.
+
+| Time | Activity |
+|------|----------|
+| 6:00–6:05 | Arrive-and-play: Score and Reset |
+| 6:05–6:10 | **Warm-up routine** — Zayden leads (captain Saturday). 1-min huddle: three wins in a row and a shutout. Credit the defending and the talking, not the score |
+| 6:10–6:20 | **Zombie Tag.** Everyone dribbles in a grid. Two zombies start without a ball, arms out, walking or jogging and groaning "brains." A tagged player leaves his ball and becomes a zombie. Last two survivors win the round. 2-minute rounds, new zombies each round |
+| 6:20–6:25 | Flash water |
+| 6:25–6:40 | **Pumpkin Knockdown.** At both goals, set a ball on a cone just inside each post as a "pumpkin." Groups of four or five at each goal. A buddy passes in and the shooter takes one touch and shoots. Goal = 1 point, knocking a pumpkin off = 3. Keeper rotates every 2 minutes, shooter becomes the next passer |
+| 6:40–6:45 | Flash water |
+| 6:45–7:00 | **Ghost Game.** 4v4 plus one "ghost" in a bright pinnie who plays for whichever team has the ball. Both goals, no keepers. A goal right after a pass from the ghost counts 3; any goal after a pass counts 2. Ghost swaps every 3 minutes |
+| 7:00–7:15 | **Haunted scrimmage.** Normal scrimmage, but every 3 to 4 minutes coach yells "Switch!" and every player trades places with the nearest teammate, keepers included. Play on immediately. Fun chaos, and everyone ends up somewhere new |
+| 7:15–7:20 | Closing huddle: shout out the best pumpkin shot and the best pass to a friend. Bank an observation for Zayden's coin |
+| 7:20–7:30 | Parent huddle: game 8 is **Sat Oct 31 (Halloween), 1:00 PM** at Dana East, **away (white)**, vs Hoover. Arrive 12:15. Done by about 2:00, well before trick-or-treating. Zayden's brother has the 2:00 AR slot right after |
