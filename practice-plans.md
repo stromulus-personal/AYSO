@@ -473,3 +473,22 @@ double all night to keep the finding-a-friend thread going.
 | 7:00–7:15 | **Haunted scrimmage.** Normal scrimmage, but every 3 to 4 minutes coach yells "Switch!" and every player trades places with the nearest teammate, keepers included. Play on immediately. Fun chaos, and everyone ends up somewhere new |
 | 7:15–7:20 | Closing huddle: shout out the best pumpkin shot and the best pass to a friend. Bank an observation for Zayden's coin |
 | 7:20–7:30 | Parent huddle: game 8 is **Sat Oct 31 (Halloween), 1:00 PM** at Dana East, **away (white)**, vs Hoover. Arrive 12:15. Done by about 2:00, well before trick-or-treating. Zayden's brother has the 2:00 AR slot right after |
+
+## Practice 13 — Thu Oct 29 — "Halloween eve-eve" (fun night, last of the finding a friend block)
+
+Owner: last one was good, keep the Halloween themes coming. All-new games
+(no repeats from P12). The scrimmage previews next week's block, **playing
+our shape**: spread out and support.
+
+| Time | Activity |
+|------|----------|
+| 6:00–6:05 | Arrive-and-play: Score and Reset |
+| 6:05–6:10 | **Warm-up routine** — Zayden leads (captain Saturday) |
+| 6:10–6:20 | **Skeleton Freeze Tag.** Everyone dribbles except two witches in pinnies. A tagged player freezes as a skeleton, legs wide and arms out. A teammate unfreezes him by passing a ball through his legs. New witches every 2 minutes |
+| 6:20–6:25 | Flash water |
+| 6:25–6:40 | **Trick-or-Treat Shootout.** Both goals, four or five kids each. A buddy passes in, the shooter shoots first time. Goal = treat (a point). Miss = trick: the keeper picks 5 frog jumps, a zombie walk to the post and back, or a monster roar. Keeper rotates every 2 minutes |
+| 6:40–6:45 | Flash water |
+| 6:45–6:55 | **Candy Corn Collector.** Two teams, each with a "bucket" (cone circle) at its end and a pile of cones scattered in the middle. Everyone dribbles out at once, stops the ball on a cone with the sole, picks it up, and dribbles it home. Round 2: you can also steal from the other bucket. Most candy wins |
+| 6:55–7:15 | **Ghost Lanes scrimmage.** Mark three long lanes with cones (left, middle, right). A goal counts 2 if your team had someone in all three lanes when the shot went in. Keep it loose, no stopping play to check. Sets up next week's "spread out and support" |
+| 7:15–7:20 | Closing huddle: shout out the best skeleton rescue and the best spread-out goal. Bank an observation for Zayden's coin |
+| 7:20–7:30 | Parent huddle: game 8 is **Sat Oct 31 (Halloween), 1:00 PM** at Dana East, **away (white)**, vs Hoover. Arrive 12:15. Done around 2:00. Zayden's brother has the 2:00 AR slot right after |
