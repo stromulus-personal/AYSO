@@ -110,6 +110,20 @@ Drills that have worked across seasons. Reuse freely.
   game ("how far back can we go?"), builds striking technique and
   confidence. At P2 nearly everyone made almost every shot out to about the
   goalie-box line. Good 10-min block or a finisher.
+- **Two-touch exchange** (from Sam's sectional team practice, added 11/3).
+  Two cones about 10 yards apart, a line at each. The player with the ball
+  takes a first touch forward, then passes on the second touch to the
+  player at the other cone. That player receives cleanly, and the receive
+  *is* his first touch going forward; second touch passes back the other
+  way. After passing, run to the back of the *other* line. Continuous loop.
+  - Coaching points: first touch out of your feet and forward, not dead
+    under you; pass with the inside of the foot; open your body to receive;
+    follow your pass.
+  - Keep lines short: with 9 kids run two pairs of cones side by side, 4
+    or 5 per pair.
+  - Progressions: weaker foot only; receive across your body with the far
+    foot; race the other pair to 20 clean passes; one touch (pass first
+    time) for the vets.
 - **Around the World** — one goal at one end, a cone (or pile of cones) at
   the other. Everyone starts on the touchline at midfield, split into
   attackers and defenders. On "around the world!" defenders sprint around
@@ -492,3 +506,22 @@ our shape**: spread out and support.
 | 6:55–7:15 | **Ghost Lanes scrimmage.** Mark three long lanes with cones (left, middle, right). A goal counts 2 if your team had someone in all three lanes when the shot went in. Keep it loose, no stopping play to check. Sets up next week's "spread out and support" |
 | 7:15–7:20 | Closing huddle: shout out the best skeleton rescue and the best spread-out goal. Bank an observation for Zayden's coin |
 | 7:20–7:30 | Parent huddle: game 8 is **Sat Oct 31 (Halloween), 1:00 PM** at Dana East, **away (white)**, vs Hoover. Arrive 12:15. Done around 2:00. Zayden's brother has the 2:00 AR slot right after |
+
+## Practice 14 — Tue Nov 3 — "Spread out and support" (playing our shape block, week 10)
+
+Coming off four straight wins (game 8: 3-2 comeback). Last regular-season
+game is Saturday; playoffs start the week of Nov 9. New block: **playing
+our shape** — spread out, support the ball, use the build-out line on
+purpose.
+
+| Time | Activity |
+|------|----------|
+| 6:00–6:05 | Arrive-and-play: Score and Reset |
+| 6:05–6:10 | **Warm-up routine** — Thomas leads (captain Saturday). 1-min huddle: the comeback. Credit not giving up and staying together, not the score |
+| 6:10–6:22 | **Two-touch exchange** (coach's sectional drill, see Coach Sam classics). Two pairs of cones side by side, 10 yards apart, 4 or 5 kids per pair. First touch forward, second touch passes across, follow your pass to the other line. Last 4 minutes: race the other pair to 20 clean passes |
+| 6:22–6:27 | Flash water. 1-min chat: "Spread out and support." When we have the ball, make the field big; when a teammate has it, get open at an angle he can pass to |
+| 6:27–6:42 | **Build-out game.** At each goal: keeper plus two defenders plus a DM (4) against two pressers. Cone line marks the build-out line. Keeper starts with the ball; pressers must stay behind the line until the first pass. Backs split wide to the corners of the box, DM shows in the middle. The 4 score by dribbling or passing over the line; the pressers score by winning it and shooting. Rotate roles every 3 minutes |
+| 6:42–6:47 | Flash water |
+| 6:47–7:15 | **Shape scrimmage (28 min)** in our 2-1-2-1. First 14 minutes: Lanes rule from Halloween is back. A goal counts 2 if your team had someone in all three lanes. Every goal kick and keeper catch is a real build-out: backs wide, DM shows. Last 14 minutes: free play |
+| 7:15–7:20 | Closing huddle: shout out one good spread-out pass and one good build-out. Bank an observation for Thomas's coin |
+| 7:20–7:30 | Parent huddle: game 9 is Sat Nov 7, **1:30 PM** at Foothills West, **home (red)**, vs Hernandez. Arrive 12:45. Last regular-season game. Ref duty right after at 2:30: center + AR1 (Sam and Zayden's brother). Playoffs start the week of Nov 9, possibly a weeknight; details when the region posts them |
