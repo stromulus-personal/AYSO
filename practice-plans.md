@@ -45,6 +45,9 @@ Thomas TBD (missed P2 sick). See `notes/` for per-practice records.
   (rules chats), but hydration is more frequent than that — quick 60–90
   second "flash breaks" every 15–20 min, bottles lined up on the sideline,
   drink-when-you-pass. No schedule change needed; it's a habit, not a slot.
+- **Headcount: 9 players total** (owner reminder, 11/5). Count bodies for
+  every drill before writing it: "one game at each goal" setups only work
+  at 4 or 5 per goal, and scrimmages are 5v4 with keepers, not 7v7.
 - **Equipment: two goals only.** Design every drill for two goals plus
   cone gates (two cones about 4 yards apart) as extra goals. Check this
   before writing any station-based plan.
@@ -548,8 +551,8 @@ regular-season game).
 | 6:05–6:10 | **Warm-up routine** — Thomas leads (captain Saturday) |
 | 6:10–6:22 | **Two-touch exchange** (coach's sectional drill). Two pairs of cones, 4 or 5 per pair. Last 4 minutes: weaker foot only, then race to 20 clean passes |
 | 6:22–6:27 | Flash water, then **"Onside or off?"** walk-through at the build-out line: coach places two attackers, a defender, and a keeper, holds a ball, and kids shout "On!" or "Off!" Three or four setups, about 3 minutes total |
-| 6:27–6:47 | **Beat the line.** One game at each goal: 3 attackers vs 2 defenders plus a keeper, attackers starting at midfield. Cones mark the build-out line. Runners must be level with the last defender or behind the ball when the pass is made, then sprint behind. One kid is the **assistant ref** on the sideline with a pinnie for a flag and raises it for offside. Onside goal = 1; goal from a perfectly timed run in behind = 2. Defenders can call "Up!" and step up together to catch runners off. Rotate attackers, defenders, keeper, and AR every 3 minutes |
+| 6:27–6:47 | **Beat the line (one game, all 9).** 4 attackers vs 3 defenders plus a keeper at one goal, attackers starting at midfield; the 9th kid is the **assistant ref** on the sideline with a pinnie for a flag. Cones mark the build-out line. Runners must be level with the last defender or behind the ball when the pass is made, then sprint behind. Onside goal = 1; goal from a perfectly timed run in behind = 2. If the defenders win it, they counter to the second goal at midfield (no keeper) for 1, so they stay switched on. Defenders can call "Up!" and step up together to catch runners off. Rotate every 3 minutes so everyone gets a turn at each role, including AR |
 | 6:47–6:52 | Flash water |
-| 6:52–7:15 | **Standard scrimmage (23 min)** in our 2-1-2-1. Coach calls offside at the build-out line, lightly; on a call, the player says "stay level, then go" and play restarts fast |
+| 6:52–7:15 | **Standard scrimmage (23 min), 5v4 with keepers.** Keeper plus 4 against keeper plus 3; the extra player swaps teams every 5 minutes. Loose 2-1-1 shape. Coach calls offside at the build-out line, lightly; on a call, the player says "stay level, then go" and play restarts fast |
 | 7:15–7:20 | Closing huddle: shout out the best timed run and the best "Up!" Bank an observation for Thomas's coin |
 | 7:20–7:30 | Parent huddle: game 9 is Sat Nov 7, **1:30 PM** at Foothills West, **home (red)**, vs Hernandez. Arrive 12:45. Last regular-season game. Sam centers the 2:30 game right after, with Zayden's brother on the line. Playoffs start the week of Nov 9, details when the region posts them |
