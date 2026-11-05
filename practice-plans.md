@@ -45,6 +45,8 @@ Thomas TBD (missed P2 sick). See `notes/` for per-practice records.
   (rules chats), but hydration is more frequent than that — quick 60–90
   second "flash breaks" every 15–20 min, bottles lined up on the sideline,
   drink-when-you-pass. No schedule change needed; it's a habit, not a slot.
+- **Ref assignments: coach handles them separately** (11/5). Don't name
+  refs or ref duty in practice plans or lineup cards.
 - **Headcount: 9 players total** (owner reminder, 11/5). Count bodies for
   every drill before writing it: "one game at each goal" setups only work
   at 4 or 5 per goal, and scrimmages are 5v4 with keepers, not 7v7.
@@ -555,4 +557,4 @@ regular-season game).
 | 6:47–6:52 | Flash water |
 | 6:52–7:15 | **Standard scrimmage (23 min), 5v4 with keepers.** Keeper plus 4 against keeper plus 3; the extra player swaps teams every 5 minutes. Loose 2-1-1 shape. Coach calls offside at the build-out line, lightly; on a call, the player says "stay level, then go" and play restarts fast |
 | 7:15–7:20 | Closing huddle: shout out the best timed run and the best "Up!" Bank an observation for Thomas's coin |
-| 7:20–7:30 | Parent huddle: game 9 is Sat Nov 7, **1:30 PM** at Foothills West, **home (red)**, vs Hernandez. Arrive 12:45. Last regular-season game. Sam centers the 2:30 game right after, with Zayden's brother on the line. Playoffs start the week of Nov 9, details when the region posts them |
+| 7:20–7:30 | Parent huddle: game 9 is Sat Nov 7, **1:30 PM** at Foothills West, **home (red)**, vs Hernandez. Arrive 12:45. Last regular-season game. Playoffs start the week of Nov 9, details when the region posts them |
