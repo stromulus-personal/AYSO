@@ -19,12 +19,19 @@ Captain = sportsmanship leader for that game and gets the coin (see
 | 6 | Sat Oct 17 | 12:00 PM | Dana MS - E | Home | Newman | Leon | 1:00 PM · Center + AR1 · Krausse v Thomas-Patel |  | **W** (lopsided; Daniel 1st goal) |
 | 7 | Sat Oct 24 | 2:30 PM | Foothills MS - W | Home | Krausse | Mikey | None (coach confirmed 10/24) | — | **W 3-0** (shutout) |
 | 8 | Sat Oct 31 | 1:00 PM | Dana MS - E | Away | Hoover | Zayden | 2:00 PM · AR · Newman v Krausse |  | **W 3-2** (comeback) |
-| 9 | Sat Nov 7 | 1:30 PM | Foothills MS - W | Home | Hernandez | Thomas | 2:30 PM · Center + AR1 · Tedei v Hermes |  |  |
+| 9 | Sat Nov 7 | 1:30 PM | Foothills MS - W | Home | Hernandez | Thomas | 2:30 PM · Center + AR1 · Tedei v Hermes |  | **W** |
 
 Playoffs begin the week of Nov 9 (weeknight games for some) per
 `season-info.md`. Playoff captain: whoever earned it.
 
 Game 5 (10/10) was the first win since game 1. Game 6 (10/17) made it two
 straight, and game 7 (10/24, 3-0 shutout) made it three. Game 8 (10/31, 3-2
-comeback) made it four. Scores for games 1 to 4 not
+comeback) made it four, and game 9 (11/7) made it five to close the regular
+season.
+
+## Playoffs
+
+| Date | Time | Field | Opponent | H/A | Captain | Result |
+|------|------|-------|----------|-----|---------|--------|
+| Sat Nov 14 | ____ | ____ | ____ | ____ | ____ | | Scores for games 1 to 4 not
 recorded yet.
