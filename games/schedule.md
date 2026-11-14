@@ -33,5 +33,5 @@ season.
 
 | Date | Time | Field | Opponent | H/A | Captain | Result |
 |------|------|-------|----------|-----|---------|--------|
-| Sat Nov 14 | ____ | ____ | ____ | ____ | ____ | | Scores for games 1 to 4 not
+| Sat Nov 14 | 1:00 PM | Dana MS | 7 v 10 game (opponent TBD) | Home (red) | ____ | | Scores for games 1 to 4 not
 recorded yet.
